@@ -1,12 +1,35 @@
 category	name	domain	source
-healthcare	Auxiliary Medical Service	ams.gov.hk	GovHK directory (keyword match)
-healthcare	Health, Department of	dh.gov.hk	GovHK directory (keyword match)
-healthcare	Food and Environmental Hygiene Department	fehd.gov.hk	GovHK directory (keyword match)
-healthcare	Hospital Authority	ha.org.hk	GovHK directory (keyword match)
-healthcare	Health Bureau	healthbureau.gov.hk	GovHK directory (keyword match)
-healthcare	Independent Commission Against Corruption	icac.org.hk	GovHK directory (keyword match)
-healthcare	Independent Police Complaints Council	ipcc.gov.hk	GovHK directory (keyword match)
-healthcare	Mandatory Provident Fund Schemes Authority	mpfa.org.hk	GovHK directory (keyword match)
-healthcare	Occupational Safety and Health Council	oshc.org.hk	GovHK directory (keyword match)
-healthcare	Council on Smoking and Health, Hong Kong	smokefree.hk	GovHK directory (keyword match)
-healthcare	Working Family and Student Financial Assistance Agency	wfsfaa.gov.hk	GovHK directory (keyword match)
+orphf_clinic	信康專科醫療中心 (銅鑼灣)	surecare.com.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=C
+orphf_day_procedure_centre	旺角高清腸胃內視鏡中心	endoscopy.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	雅蘭高清腸胃內視鏡中心	endoscopy.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	OA 眼科	eyehealth.com.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	OA 眼科手術中心	eyehealth.com.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	浸信會東九龍醫療中心	hkbh.org.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	香港浸信會醫院日間醫療中心	hkbh.org.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	香港激光矯視中心	hklasereye.com	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	香港眼科醫療中心	hklasereye.com	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	中環高清腸胃內視鏡中心	humansahealth.com	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	元朗高清腸胃內視鏡中心	humansahealth.com	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	葵芳高清腸胃內視鏡中心	humansahealth.com	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	觀塘高清腸胃內視鏡中心	humansahealth.com	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	國際中環牙科中心	idental.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	牙齒矯正及兒童齒科中心	idental.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	安康醫療中建大廈	oncocare.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	安康醫療尖沙咀	oncocare.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	仁德醫健 (中環)	pedderhealth.com	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	倍安日間手術中心	pedderhealth.com	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	倍康日間手術中心	pedderhealth.com	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	卓健醫療內視鏡中心 (旺角)	qhms.com	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	卓健醫療眼科及手術中心	qhms.com	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	信康808日間醫療中心	surecare.com.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	東華三院內視鏡中心	tungwah.org.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	東華三院血液透析中心	tungwah.org.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	仁安生殖醫學中心 (尖沙咀)	union.org	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	仁安腫瘤中心	union.org	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	仁安醫療造影體檢中心	union.org	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_day_procedure_centre	仁安醫院分科診所 (尖沙咀)	union.org	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=DPC
+orphf_private_hospital	香港浸信會醫院	hkbh.org.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=PH
+orphf_private_hospital	仁安醫院	union.org	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=PH
+orphf_small_practice_clinic	DR J MEDICAL CLINIC (SHEUNG WAN)	drj-medical.com	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=SPC
+orphf_small_practice_clinic	DR. AFTERHOUR BY DR. J MEDICAL	drj-medical.com	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=SPC
+orphf_small_practice_clinic	醫美新世代診所	drj-medical.com	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=SPC
