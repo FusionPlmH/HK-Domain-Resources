@@ -1,0 +1,8 @@
+industry	category	name	domain	source	dataset
+public_administration	public-safety_govhk	Civil Aid Service	cas.gov.hk	GovHK directory (sector keyword match)	public-safety.tsv
+public_administration	public-safety_govhk	Customs and Excise Department	customs.gov.hk	GovHK directory (sector keyword match)	public-safety.tsv
+public_administration	public-safety_govhk	Hong Kong Fire Services Department	hkfsd.gov.hk	GovHK directory (sector keyword match)	public-safety.tsv
+public_administration	public-safety_govhk	Immigration Department	immd.gov.hk	GovHK directory (sector keyword match)	public-safety.tsv
+public_administration	public-safety_govhk	Independent Police Complaints Council	ipcc.gov.hk	GovHK directory (sector keyword match)	public-safety.tsv
+public_administration	public-safety_govhk	Police Force, Hong Kong	police.gov.hk	GovHK directory (sector keyword match)	public-safety.tsv
+public_administration	public-safety_govhk	Security Bureau	sb.gov.hk	GovHK directory (sector keyword match)	public-safety.tsv

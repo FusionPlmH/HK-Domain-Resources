@@ -1,0 +1,5 @@
+industry	category	name	domain	source	dataset
+wholesale_retail	telecom_hkrma_member	China Mobile Hong Kong Company Limited 中國移動香港有限公司	chinamobile.com	HKRMA Membership Directory	hkrma.tsv
+wholesale_retail	telecom_hkrma_member	CSL Mobile Limited 香港移動通訊有限公司	hkcsl.com	HKRMA Membership Directory	hkrma.tsv
+wholesale_retail	telecom_hkrma_member	Hong Kong Telecommunications (HKT) Limited 香港電訊有限公司	hkt.com	HKRMA Membership Directory	hkrma.tsv
+wholesale_retail	telecom_hkrma_member	SmarTone Mobile Communications Ltd	smartone.com	HKRMA Membership Directory	hkrma.tsv

@@ -1,0 +1,8 @@
+industry	category	name	domain	source	dataset
+public_administration	tourism_govhk	Agriculture, Fisheries and Conservation Department	afcd.gov.hk	GovHK directory (sector keyword match)	tourism.tsv
+public_administration	tourism_govhk	Culture, Sports and Tourism Bureau	cstb.gov.hk	GovHK directory (sector keyword match)	tourism.tsv
+public_administration	tourism_govhk	Tourism Board, Hong Kong	discoverhongkong.com	GovHK directory (sector keyword match)	tourism.tsv
+public_administration	tourism_govhk	Leisure and Cultural Services Department	lcsd.gov.hk	GovHK directory (sector keyword match)	tourism.tsv
+public_administration	tourism_govhk	Travel Industry Authority	tia.org.hk	GovHK directory (sector keyword match)	tourism.tsv
+public_administration	tourism_govhk	Tourism Commission	tourism.gov.hk	GovHK directory (sector keyword match)	tourism.tsv
+public_administration	tourism_govhk	West Kowloon Cultural District	westk.hk	GovHK directory (sector keyword match)	tourism.tsv

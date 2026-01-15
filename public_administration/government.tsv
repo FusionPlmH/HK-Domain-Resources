@@ -1,0 +1,160 @@
+industry	category	name	domain	source	dataset
+public_administration	government	Administration Wing	admwing.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Agriculture, Fisheries and Conservation Department	afcd.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Accounting and Financial Reporting Council	afrc.org.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Auxiliary Medical Service	ams.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Architectural Services Department	archsd.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Applied Science and Technology Research Institute, Hong Kong	astri.org	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Council for the AIDS Trust Fund	atf.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Audit Commission	aud.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Buildings Department	bd.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	The Office of the Government of the Hong Kong Special Administrative Region in Beijing	bjo.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Civil Aviation Department	cad.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Civil Aid Service	cas.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	CreateSmart Initiative (CSI)	ccidahk.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Commerce and Economic Development Bureau	cedb.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Civil Engineering and Development Department	cedd.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Census and Statistics Department	censtatd.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Chief Executive	ceo.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Chief Executive’s Policy Unit	cepu.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Construction Industry Council	cic.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Constitutional and Mainland Affairs Bureau	cmab.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Chinese Medicine Council of Hong Kong	cmchk.org.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Competition Policy Advisory Group	compag.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Competition Commission	compcomm.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Communications Authority	coms-auth.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Consumer Council	consumer.org.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Committee on the Promotion of Civic Education	cpce.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Companies Registry	cr.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Civil Service Bureau	csb.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Correctional Services Department	csd.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Chief Secretary for Administration's Office	cso.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Culture, Sports and Tourism Bureau	cstb.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Customs and Excise Department	customs.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Hong Kong Cyberport Management Company Limited	cyberport.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Development Bureau	devb.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Department of Health	dh.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Digital Policy Office	digitalpolicy.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Telephone No, Email & Office Addresses of Government Bureaux, Departments & Related Organisations	directory.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Hong Kong Tourism Board	discoverhongkong.com	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	District Councils	districtcouncils.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Department of Justice	doj.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Drainage Services Department	dsd.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Education Commission	e-c.edu.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Estate Agents Authority	eaa.org.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Electoral Affairs Commission	eac.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Education Bureau	edb.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Hong Kong Education City (EdCity)	edcity.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Environment and Ecology Bureau	eeb.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Elderly Commission	elderlycommission.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Electrical and Mechanical Services Department	emsd.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Equal Opportunities Commission	eoc.org.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Environmental Protection Department	epd.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Employees Retraining Board	erb.org	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Food and Environmental Hygiene Department	fehd.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Financial Secretary's Office	fso.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Financial Services and the Treasury Bureau	fstb.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Flying Service, Government	gfs.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Government Logistics Department	gld.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Government Laboratory	govtlab.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Government Property Agency	gpa.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Government Records Service	grs.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Hospital Authority	ha.org.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Home Affairs Department	had.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Housing Bureau	hb.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Health Bureau	healthbureau.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Arts Centre, Hong Kong	hkac.org.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Arts Development Council, Hong Kong	hkadc.org.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Council for Accreditation of Academic & Vocational Qualifications, Hong Kong	hkcaavq.edu.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Examinations and Assessment Authority, Hong Kong	hkeaa.edu.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Export Credit Insurance Corporation, Hong Kong	hkecic.com	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Exchanges and Clearing Ltd., Hong Kong	hkex.com.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Fire Services Department, Hong Kong	hkfsd.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Hong Kong Housing Society	hkhs.com	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Hong Kong International Arbitration Centre	hkiac.org	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Investor Education Centre	hkiec.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Hong Kong Internet Registration Corporation Limited	hkirc.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Hong Kong Monetary Authority	hkma.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Hong Kong Mortgage Corporation Limited	hkmc.com.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Hong Kong Maritime and Port Board	hkmpb.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Hong Kong Observatory	hko.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Hong Kong Productivity Council	hkpc.org	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Law Reform Commission of Hong Kong	hkreform.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Hong Kong Sports Institute Limited	hksi.org.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Hong Kong Science and Technology Parks Corporation	hkstp.org	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Hong Kong Trade Development Council	hktdc.com	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Airport Authority, Hong Kong	hongkongairport.com	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Hongkong Post	hongkongpost.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Housing Department / Housing Authority	housingauthority.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Home and Youth Affairs Bureau	hyab.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Highways Department	hyd.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Insurance Authority	ia.org.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Independent Commission Against Corruption	icac.org.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Insider Dealing Tribunal	idt.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Investor and Financial Education Council	ifec.org.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Immigration Department	immd.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Board of Review (Inland Revenue Ordinance)	info.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Invest Hong Kong	investhk.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Independent Police Complaints Council	ipcc.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Intellectual Property Department	ipd.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Inland Revenue Department	ird.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Information Services Department	isd.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Innovation and Technology Commission	itc.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Innovation, Technology and Industry Bureau	itib.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Joint Secretariat for the Advisory Bodies on Civil Service and Judicial Salaries and Conditions of Service	jsscs.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Coroner's Court	judiciary.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Kowloon-Canton Railway Corporation	kcrc.com	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Labour Department	labour.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Legal Aid Department	lad.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Land Registry	landreg.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Lands Department	landsd.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Legal Aid Services Council	lasc.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Leisure and Cultural Services Department	lcsd.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Legislative Council	legco.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Hong Kong Logistics Development Council	logisticshk.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Labour and Welfare Bureau	lwb.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Marine Department	mardep.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Market Misconduct Tribunal	mmt.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Mandatory Provident Fund Schemes Authority	mpfa.org.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	MTR Corporation	mtr.com.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Minimum Wage Commission	mwc.org.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Narcotics Division	nd.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Insurance, Office of the Commissioner of	oci.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Communications Authority, Office of the	ofca.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Office of the Government Economist	oge.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Office of the Ombudsman	ombudsman.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Official Receiver's Office	oro.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Occupational Safety and Health Council	oshc.org.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Official Solicitor's Office	oso.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Office of the Privacy Commissioner for Personal Data	pcpd.org.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Planning Department	pland.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Auxiliary Police Force, Hong Kong	police.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Protocol Division	protocol.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Public Service Commission	psc.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Quality Education Fund	qef.org.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Registration and Electoral Office	reo.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Radio Television Hong Kong	rthk.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Rating and Valuation Department	rvd.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Security and Guarding Services Industry Authority	sb.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Secretariat, Commissioner on Interception of Communications and Surveillance	sciocs.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Securities and Futures Appeals Tribunal	sfat.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Securities and Futures Commission	sfc.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Council on Smoking and Health, Hong Kong	smokefree.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Social Welfare Department	swd.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Transport Complaints Unit, Transport Advisory Committee	tcu.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Transport Department	td.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Travel Industry Authority	tia.org.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Review Body on Bid Challenges	tid.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Transport and Logistics Bureau	tlb.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Tourism Commission	tourism.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	The Treasury	try.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	University Grants Committee	ugc.edu.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	University Grants Committee Secretariat	ugcs.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Urban Renewal Authority	ura.org.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Vocational Training Council	vtc.edu.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	West Kowloon Cultural District	westk.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Working Family and Student Financial Assistance Agency	wfsfaa.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Women's Commission	women.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Water Supplies Department	wsd.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Offices outside Hong Kong	www.gov.hk	GovHK directory	all.tsv | govhk-general.tsv
+public_administration	government	Youth Development Commission	ydc.gov.hk	GovHK directory	all.tsv | govhk-general.tsv

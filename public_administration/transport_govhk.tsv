@@ -1,0 +1,20 @@
+industry	category	name	domain	source	dataset
+public_administration	transport_govhk	Accounting and Financial Reporting Council	afrc.org.hk	GovHK directory (sector keyword match)	transport.tsv
+public_administration	transport_govhk	Civil Aviation Department	cad.gov.hk	GovHK directory (sector keyword match)	transport.tsv
+public_administration	transport_govhk	Culture, Sports and Tourism Bureau	cstb.gov.hk	GovHK directory (sector keyword match)	transport.tsv
+public_administration	transport_govhk	Hong Kong Cyberport Management Company Limited	cyberport.hk	GovHK directory (sector keyword match)	transport.tsv
+public_administration	transport_govhk	Equal Opportunities Commission	eoc.org.hk	GovHK directory (sector keyword match)	transport.tsv
+public_administration	transport_govhk	Logistics Department, Government	gld.gov.hk	GovHK directory (sector keyword match)	transport.tsv
+public_administration	transport_govhk	Hong Kong Export Credit Insurance Corporation	hkecic.com	GovHK directory (sector keyword match)	transport.tsv
+public_administration	transport_govhk	Hong Kong Maritime and Port Board	hkmpb.gov.hk	GovHK directory (sector keyword match)	transport.tsv
+public_administration	transport_govhk	Sports Institute Limited, Hong Kong	hksi.org.hk	GovHK directory (sector keyword match)	transport.tsv
+public_administration	transport_govhk	Hong Kong Airport Authority	hongkongairport.com	GovHK directory (sector keyword match)	transport.tsv
+public_administration	transport_govhk	Hongkong Post	hongkongpost.hk	GovHK directory (sector keyword match)	transport.tsv
+public_administration	transport_govhk	Highways Department	hyd.gov.hk	GovHK directory (sector keyword match)	transport.tsv
+public_administration	transport_govhk	Kowloon-Canton Railway Corporation	kcrc.com	GovHK directory (sector keyword match)	transport.tsv
+public_administration	transport_govhk	Logistics Development Council, Hong Kong	logisticshk.gov.hk	GovHK directory (sector keyword match)	transport.tsv
+public_administration	transport_govhk	Marine Department	mardep.gov.hk	GovHK directory (sector keyword match)	transport.tsv
+public_administration	transport_govhk	MTR Corporation	mtr.com.hk	GovHK directory (sector keyword match)	transport.tsv
+public_administration	transport_govhk	Transport Complaints Unit, Transport Advisory Committee	tcu.gov.hk	GovHK directory (sector keyword match)	transport.tsv
+public_administration	transport_govhk	Transport Department	td.gov.hk	GovHK directory (sector keyword match)	transport.tsv
+public_administration	transport_govhk	Transport and Logistics Bureau	tlb.gov.hk	GovHK directory (sector keyword match)	transport.tsv

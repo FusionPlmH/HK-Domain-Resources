@@ -1,0 +1,16 @@
+industry	category	name	domain	source	dataset
+education	education_ipass_associate_degree	Lingnan University	-	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_associate_degree	Hong Kong Chu Hai College	chuhai.edu.hk	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_associate_degree	Lingnan University - The Community College at Lingnan University	edu.hk/cc	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_associate_degree	The Hong Kong Polytechnic University - Hong Kong Community College	edu.hk/en	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_associate_degree	Lingnan University - Lingnan Institute of Further Education	edu.hk/life	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_associate_degree	Hong Kong Baptist University - College of International Education	edu.hk/main/en	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_associate_degree	The Education University of Hong Kong	eduhk.hk	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_associate_degree	Hong Kong Institute of Technology	hk/en/main.php	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_associate_degree	Hong Kong Nang Yan College of Higher Education	hk/web/eng/home.html	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_associate_degree	Hong Kong Adventist College	hkac.edu	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_associate_degree	Hong Kong Baptist University	hkbu.edu.hk	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_associate_degree	Hong Kong Metropolitan University	hkmu.edu.hk	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_associate_degree	HKU SPACE Po Leung Kuk Stanley Ho Community College	hku.hk	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_associate_degree	The University of Hong Kong - HKU SPACE Community College	hku.hk/cc	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_associate_degree	UOW College Hong Kong	uowchk.edu.hk	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv

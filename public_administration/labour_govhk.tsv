@@ -1,0 +1,8 @@
+industry	category	name	domain	source	dataset
+public_administration	labour_govhk	Employees Retraining Board	erb.org	GovHK directory (sector keyword match)	labour.tsv
+public_administration	labour_govhk	Laboratory, Government	govtlab.gov.hk	GovHK directory (sector keyword match)	labour.tsv
+public_administration	labour_govhk	Hong Kong Council for Accreditation of Academic & Vocational Qualifications	hkcaavq.edu.hk	GovHK directory (sector keyword match)	labour.tsv
+public_administration	labour_govhk	Labour Department	labour.gov.hk	GovHK directory (sector keyword match)	labour.tsv
+public_administration	labour_govhk	Labour and Welfare Bureau	lwb.gov.hk	GovHK directory (sector keyword match)	labour.tsv
+public_administration	labour_govhk	Occupational Safety and Health Council	oshc.org.hk	GovHK directory (sector keyword match)	labour.tsv
+public_administration	labour_govhk	Vocational Training Council	vtc.edu.hk	GovHK directory (sector keyword match)	labour.tsv

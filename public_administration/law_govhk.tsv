@@ -1,0 +1,7 @@
+industry	category	name	domain	source	dataset
+public_administration	law_govhk	Hong Kong Correctional Services	csd.gov.hk	GovHK directory (sector keyword match)	law.tsv
+public_administration	law_govhk	Justice, Department of	doj.gov.hk	GovHK directory (sector keyword match)	law.tsv
+public_administration	law_govhk	Law Reform Commission of Hong Kong	hkreform.gov.hk	GovHK directory (sector keyword match)	law.tsv
+public_administration	law_govhk	Standing Committee on Judicial Salaries and Conditions of Service	jsscs.gov.hk	GovHK directory (sector keyword match)	law.tsv
+public_administration	law_govhk	Legal Aid Department	lad.gov.hk	GovHK directory (sector keyword match)	law.tsv
+public_administration	law_govhk	Legal Aid Services Council	lasc.hk	GovHK directory (sector keyword match)	law.tsv

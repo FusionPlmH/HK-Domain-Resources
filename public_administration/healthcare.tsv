@@ -1,0 +1,6 @@
+industry	category	name	domain	source	dataset
+public_administration	healthcare	Auxiliary Medical Service	ams.gov.hk	GovHK directory (keyword match)	govhk-healthcare.tsv
+public_administration	healthcare	Council for the AIDS Trust Fund	atf.gov.hk	GovHK directory (keyword match)	govhk-healthcare.tsv
+public_administration	healthcare	Department of Health	dh.gov.hk	GovHK directory (keyword match)	govhk-healthcare.tsv
+public_administration	healthcare	Food and Environmental Hygiene Department	fehd.gov.hk	GovHK directory (keyword match)	govhk-healthcare.tsv
+public_administration	healthcare	Health Bureau	healthbureau.gov.hk	GovHK directory (keyword match)	govhk-healthcare.tsv

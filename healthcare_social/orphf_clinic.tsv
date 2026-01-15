@@ -1,0 +1,3 @@
+industry	category	name	domain	source	dataset
+healthcare_social	orphf_clinic	中環牙科診所有限公司	drteriyungdental.com	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=C	all.tsv
+healthcare_social	orphf_clinic	信康專科醫療中心 (銅鑼灣)	surecare.com.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=C	all.tsv

@@ -1,0 +1,26 @@
+industry	category	name	domain	source	dataset
+education	education_degree_awarding_nonugc	City University of Hong Kong	cityu.edu.hk	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	- Educational Multimedia (EMM)	edcity.hk	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	Yew Chung College of Early Childhood Education	edu.hk/en	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	The Education University of Hong Kong	eduhk.hk	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	Gratia Christian College	gcc.edu.hk	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	Hong Kong Baptist University	hk/en.html	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	Saint Francis University	hk/en/home/index.html	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	- Citizenship and Social Development for Senior Secondary Level	hk/en/index.php	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	The Chinese University of Hong Kong	hk/english/index.html	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	- Home-School Co-operation	hk/main.php?lang_id=1	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	Hong Kong Nang Yan College of Higher Education	hk/web/eng/home.html	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	Hong Kong Academy for Performing Arts	hkapa.edu	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	- EDB One-stop Portal for Learning and Teaching Resources	hkedcity.net/edbosp	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	- Resources for Students and Parents	hkedcity.net/parent/new	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	Hong Kong Metropolitan University	hkmu.edu.hk	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	Hong Kong Shue Yan University	hksyu.edu	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	The University of Hong Kong	hku.hk	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	The Hang Seng University of Hong Kong	hsu.edu.hk	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	Lingnan University	ln.edu.hk	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	- Curriculum Development Council	net/cd/cdc/en/index.html	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	The Hong Kong Polytechnic University	polyu.edu.hk	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	Technological and Higher Education Institute of Hong Kong, Vocational Training Council	thei.edu.hk	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	Tung Wah College	twc.edu.hk	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	UOW College Hong Kong	uowchk.edu.hk	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv
+education	education_degree_awarding_nonugc	The Hong Kong University of Science and Technology	ust.hk	https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html	all.tsv | higher-ed.tsv

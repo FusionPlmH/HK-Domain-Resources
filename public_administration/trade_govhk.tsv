@@ -1,0 +1,16 @@
+industry	category	name	domain	source	dataset
+public_administration	trade_govhk	Film Promotion and Facilitation Section	ccidahk.gov.hk	GovHK directory (sector keyword match)	trade.tsv
+public_administration	trade_govhk	Commerce and Economic Development Bureau	cedb.gov.hk	GovHK directory (sector keyword match)	trade.tsv
+public_administration	trade_govhk	Construction Industry Council	cic.hk	GovHK directory (sector keyword match)	trade.tsv
+public_administration	trade_govhk	Competition Policy Advisory Group	compag.gov.hk	GovHK directory (sector keyword match)	trade.tsv
+public_administration	trade_govhk	Competition Commission	compcomm.hk	GovHK directory (sector keyword match)	trade.tsv
+public_administration	trade_govhk	Consumer Council	consumer.org.hk	GovHK directory (sector keyword match)	trade.tsv
+public_administration	trade_govhk	Committee on the Promotion of Civic Education	cpce.gov.hk	GovHK directory (sector keyword match)	trade.tsv
+public_administration	trade_govhk	Investor Education Centre	hkiec.hk	GovHK directory (sector keyword match)	trade.tsv
+public_administration	trade_govhk	Trade Development Council, Hong Kong	hktdc.com	GovHK directory (sector keyword match)	trade.tsv
+public_administration	trade_govhk	Investor and Financial Education Council	ifec.org.hk	GovHK directory (sector keyword match)	trade.tsv
+public_administration	trade_govhk	Invest Hong Kong	investhk.gov.hk	GovHK directory (sector keyword match)	trade.tsv
+public_administration	trade_govhk	Innovation, Technology and Industry Bureau	itib.gov.hk	GovHK directory (sector keyword match)	trade.tsv
+public_administration	trade_govhk	Office of the Government Economist	oge.gov.hk	GovHK directory (sector keyword match)	trade.tsv
+public_administration	trade_govhk	Travel Industry Authority	tia.org.hk	GovHK directory (sector keyword match)	trade.tsv
+public_administration	trade_govhk	Trade and Industry Department	tid.gov.hk	GovHK directory (sector keyword match)	trade.tsv

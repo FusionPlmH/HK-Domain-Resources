@@ -1,0 +1,5 @@
+industry	category	name	domain	source	dataset
+healthcare_social	healthcare	Chinese Medicine Council of Hong Kong	cmchk.org.hk	GovHK directory (keyword match)	govhk-healthcare.tsv
+healthcare_social	healthcare	Hospital Authority	ha.org.hk	GovHK directory (keyword match)	govhk-healthcare.tsv
+healthcare_social	healthcare	Occupational Safety and Health Council	oshc.org.hk	GovHK directory (keyword match)	govhk-healthcare.tsv
+healthcare_social	healthcare	Council on Smoking and Health, Hong Kong	smokefree.hk	GovHK directory (keyword match)	govhk-healthcare.tsv

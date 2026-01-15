@@ -1,0 +1,7 @@
+industry	category	name	domain	source	dataset
+public_administration	social-welfare_govhk	Elderly Commission	elderlycommission.gov.hk	GovHK directory (sector keyword match)	social-welfare.tsv
+public_administration	social-welfare_govhk	Home and Youth Affairs Bureau	hyab.gov.hk	GovHK directory (sector keyword match)	social-welfare.tsv
+public_administration	social-welfare_govhk	Labour and Welfare Bureau	lwb.gov.hk	GovHK directory (sector keyword match)	social-welfare.tsv
+public_administration	social-welfare_govhk	Social Welfare Department	swd.gov.hk	GovHK directory (sector keyword match)	social-welfare.tsv
+public_administration	social-welfare_govhk	Working Family and Student Financial Assistance Agency	wfsfaa.gov.hk	GovHK directory (sector keyword match)	social-welfare.tsv
+public_administration	social-welfare_govhk	Youth Development Commission	ydc.gov.hk	GovHK directory (sector keyword match)	social-welfare.tsv

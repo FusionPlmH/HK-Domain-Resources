@@ -1,0 +1,16 @@
+industry	category	name	domain	source	dataset
+public_administration	housing_govhk	Architectural Services Department	archsd.gov.hk	GovHK directory (sector keyword match)	housing.tsv
+public_administration	housing_govhk	Buildings Department	bd.gov.hk	GovHK directory (sector keyword match)	housing.tsv
+public_administration	housing_govhk	Town Planning Appeal Board	devb.gov.hk	GovHK directory (sector keyword match)	housing.tsv
+public_administration	housing_govhk	Estate Agents Authority	eaa.org.hk	GovHK directory (sector keyword match)	housing.tsv
+public_administration	housing_govhk	Property Agency, Government	gpa.gov.hk	GovHK directory (sector keyword match)	housing.tsv
+public_administration	housing_govhk	Housing Bureau	hb.gov.hk	GovHK directory (sector keyword match)	housing.tsv
+public_administration	housing_govhk	Hong Kong Housing Society	hkhs.com	GovHK directory (sector keyword match)	housing.tsv
+public_administration	housing_govhk	Housing Department / Housing Authority	housingauthority.gov.hk	GovHK directory (sector keyword match)	housing.tsv
+public_administration	housing_govhk	Town Planning Board	info.gov.hk	GovHK directory (sector keyword match)	housing.tsv
+public_administration	housing_govhk	Intellectual Property Department	ipd.gov.hk	GovHK directory (sector keyword match)	housing.tsv
+public_administration	housing_govhk	Land Registry	landreg.gov.hk	GovHK directory (sector keyword match)	housing.tsv
+public_administration	housing_govhk	Lands Department	landsd.gov.hk	GovHK directory (sector keyword match)	housing.tsv
+public_administration	housing_govhk	Planning Department	pland.gov.hk	GovHK directory (sector keyword match)	housing.tsv
+public_administration	housing_govhk	Rating and Valuation Department	rvd.gov.hk	GovHK directory (sector keyword match)	housing.tsv
+public_administration	housing_govhk	Urban Renewal Authority	ura.org.hk	GovHK directory (sector keyword match)	housing.tsv

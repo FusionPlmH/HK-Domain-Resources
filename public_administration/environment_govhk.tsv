@@ -1,0 +1,7 @@
+industry	category	name	domain	source	dataset
+public_administration	environment_govhk	Agriculture, Fisheries and Conservation Department	afcd.gov.hk	GovHK directory (sector keyword match)	environment.tsv
+public_administration	environment_govhk	Drainage Services Department	dsd.gov.hk	GovHK directory (sector keyword match)	environment.tsv
+public_administration	environment_govhk	Environment and Ecology Bureau	eeb.gov.hk	GovHK directory (sector keyword match)	environment.tsv
+public_administration	environment_govhk	Environmental Protection Department	epd.gov.hk	GovHK directory (sector keyword match)	environment.tsv
+public_administration	environment_govhk	Food and Environmental Hygiene Department	fehd.gov.hk	GovHK directory (sector keyword match)	environment.tsv
+public_administration	environment_govhk	Water Supplies Department	wsd.gov.hk	GovHK directory (sector keyword match)	environment.tsv

@@ -1,0 +1,2 @@
+industry	category	name	domain	source	dataset
+public_administration	insurance	Insurance, Office of the Commissioner of	oci.gov.hk	GovHK directory | Derived from financial.tsv (GovHK insurance + IA + HKFI) | Derived from financial.tsv (GovHK insurance + IA + HKFI); GovHK directory	all.tsv | insurance.tsv | merged.tsv

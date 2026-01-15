@@ -1,0 +1,24 @@
+industry	category	name	domain	source	dataset
+education	education_ipass_higher_diploma	Hong Kong Baptist University - Academy of Film	-	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	Hong Kong Chu Hai College	chuhai.edu.hk	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	The Chinese University of Hong Kong - School of Continuing and Professional Studies	cuscshd.hk/en	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	YMCA College of Careers	edu.hk/?lang=en	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	Lingnan University - The Community College at Lingnan University	edu.hk/cc	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	The Hong Kong Polytechnic University - Hong Kong Community College	edu.hk/en	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	Lingnan University - Lingnan Institute of Further Education	edu.hk/life	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	Hong Kong Baptist University - College of International Education	edu.hk/main/en	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	The Education University of Hong Kong	eduhk.hk	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	Gratia Christian College	gcc.edu.hk	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	Hong Kong Institute of Technology	hk/en/main.php	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	Hong Kong Art School (a division of Hong Kong Arts Centre)	hk/index.html	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	Pui Ching Academy	hk/index2.html	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	Hong Kong Nang Yan College of Higher Education	hk/web/eng/home.html	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	Hong Kong Adventist College	hkac.edu	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	Hong Kong Baptist University	hkbu.edu.hk	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	Hong Kong Metropolitan University	hkmu.edu.hk	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	HKU SPACE Po Leung Kuk Stanley Ho Community College	hku.hk	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	The University of Hong Kong - HKU SPACE Community College	hku.hk/cc	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	Kaplan Business and Accountancy School	kbas.edu.hk	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	Sacred Heart Canossian College of Commerce	shccc.edu.hk	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	UOW College Hong Kong	uowchk.edu.hk	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv
+education	education_ipass_higher_diploma	Vocational Training Council	vtc.edu.hk	https://www.cspe.edu.hk/connector/en/ipass/*	all.tsv | higher-ed.tsv

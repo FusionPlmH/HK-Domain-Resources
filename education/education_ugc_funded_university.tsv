@@ -1,0 +1,8 @@
+industry	category	name	domain	source	dataset
+education	education_ugc_funded_university	City University of Hong Kong	cityu.edu.hk	https://www.ugc.edu.hk/eng/ugc/site/fund_inst.html	all.tsv | higher-ed.tsv
+education	education_ugc_funded_university	The Hong Kong Polytechnic University	edu.hk/en	https://www.ugc.edu.hk/eng/ugc/site/fund_inst.html	all.tsv | higher-ed.tsv
+education	education_ugc_funded_university	The Chinese University of Hong Kong	edu.hk/english	https://www.ugc.edu.hk/eng/ugc/site/fund_inst.html	all.tsv | higher-ed.tsv
+education	education_ugc_funded_university	The Education University of Hong Kong	eduhk.hk/en	https://www.ugc.edu.hk/eng/ugc/site/fund_inst.html	all.tsv | higher-ed.tsv
+education	education_ugc_funded_university	The University of Hong Kong	hku.hk	https://www.ugc.edu.hk/eng/ugc/site/fund_inst.html	all.tsv | higher-ed.tsv
+education	education_ugc_funded_university	The Hong Kong University of Science and Technology	https://hkust.edu.hk	https://www.ugc.edu.hk/eng/ugc/site/fund_inst.html	all.tsv | higher-ed.tsv
+education	education_ugc_funded_university	Lingnan University	ln.edu.hk	https://www.ugc.edu.hk/eng/ugc/site/fund_inst.html	all.tsv | higher-ed.tsv

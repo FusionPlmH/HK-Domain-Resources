@@ -1,0 +1,8 @@
+industry	category	name	domain	source	dataset
+public_administration	innovation_govhk	Hong Kong Applied Science and Technology Research Institute	astri.org	GovHK directory (sector keyword match)	innovation.tsv
+public_administration	innovation_govhk	Hong Kong Cyberport Management Company Limited	cyberport.hk	GovHK directory (sector keyword match)	innovation.tsv
+public_administration	innovation_govhk	Digital Policy Office	digitalpolicy.gov.hk	GovHK directory (sector keyword match)	innovation.tsv
+public_administration	innovation_govhk	Science and Technology Parks Corporation, Hong Kong	hkstp.org	GovHK directory (sector keyword match)	innovation.tsv
+public_administration	innovation_govhk	Innovation and Technology Commission	itc.gov.hk	GovHK directory (sector keyword match)	innovation.tsv
+public_administration	innovation_govhk	Innovation, Technology and Industry Bureau	itib.gov.hk	GovHK directory (sector keyword match)	innovation.tsv
+public_administration	innovation_govhk	Privacy Commissioner for Personal Data, Office of the	pcpd.org.hk	GovHK directory (sector keyword match)	innovation.tsv

@@ -1,0 +1,12 @@
+industry	category	name	domain	source	dataset
+healthcare_social	orphf_private_hospital	嘉諾撒醫院	canossahospital.org.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=PH	all.tsv
+healthcare_social	orphf_private_hospital	香港中文大學醫院	cuhkmc.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=PH	all.tsv
+healthcare_social	orphf_private_hospital	播道醫院	evangel.org.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=PH	all.tsv
+healthcare_social	orphf_private_hospital	港怡醫院	gleneagles.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=PH	all.tsv
+healthcare_social	orphf_private_hospital	香港港安醫院 - 司徒拔道	hkah.org.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=PH	all.tsv
+healthcare_social	orphf_private_hospital	香港浸信會醫院	hkbh.org.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=PH	all.tsv
+healthcare_social	orphf_private_hospital	香港養和醫院有限公司	hksh-hospital.com	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=PH	all.tsv
+healthcare_social	orphf_private_hospital	明德醫院	matilda.org	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=PH	all.tsv
+healthcare_social	orphf_private_hospital	寶血醫院 (明愛)	pbh.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=PH	all.tsv
+healthcare_social	orphf_private_hospital	聖德肋撒醫院	sth.org.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=PH	all.tsv
+healthcare_social	orphf_private_hospital	聖保祿醫院	stpaul.org.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=PH	all.tsv
