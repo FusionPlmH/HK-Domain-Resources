@@ -1,6 +1,6 @@
 # HK Domain Resources
 
-A curated collection of Hong Kong domain resources organized by industry sectors. This repository contains structured data (TSV format) of domains for various Hong Kong institutions and organizations.
+A curated collection of Hong Kong domain resources organized by industry sectors.  This repository contains structured data (TSV format) of domains for various Hong Kong institutions and organizations.
 
 本儲存庫是一個按行業分類整理的香港域名資源精選集，包含各類香港機構和組織的結構化數據（TSV 格式）。
 
@@ -8,67 +8,58 @@ A curated collection of Hong Kong domain resources organized by industry sectors
 
 ## 📊 Statistics | 統計資料
 
-- **Total Files | 檔案總數:** 15
-- **Industries Covered | 涵蓋行業:** 9+
-- **Last Updated | 最後更新:** 2026-01-13
+- **Total Categories | 分類總數:** 10
+- **Industries Covered | 涵蓋行業:** 10+
+- **Last Updated | 最後更新:** 2026-01-15
 
 ---
 
 ## 📋 Contents | 目錄
 
-### 💰 Financial Sector | 金融業
+### 🏨 Accommodation & Food Services | 住宿及餐飲服務
+**Directory:** `accommodation_food/`
 
-- **Banking | 銀行業** - `bank.tsv`  
-  Hong Kong banks and financial institutions | 香港銀行及金融機構
+Hotels, restaurants, and food service establishments | 酒店、餐廳及餐飲服務機構
 
-- **Financial Services | 金融服務** - `financial.tsv`  
-  Financial service providers | 金融服務提供者
+### 🏢 Administrative & Support Services | 行政及支援服務
+**Directory:** `administrative_support/`
 
-- **Insurance | 保險業** - `insurance.tsv`  
-  Insurance companies | 保險公司
+Administrative, business support, and professional services | 行政、商業支援及專業服務
 
-- **Payment Services | 支付服務** - `payment-fps.tsv`  
-  FPS (Faster Payment System) participants | 轉數快參與機構
+### 🎨 Arts, Entertainment & Recreation | 藝術、娛樂及康樂
+**Directory:** `arts_recreation/`
 
-- **MPF Services | 強積金服務** - `mpfa.tsv`  
-  Mandatory Provident Fund schemes | 強制性公積金計劃
+Cultural, entertainment, and recreational organizations | 文化、娛樂及康樂組織
 
-### 🎓 Education Sector | 教育界
+### 🎓 Education | 教育
+**Directory:** `education/`
 
-- **Complete Dataset | 完整數據集** - `education.tsv`  
-  All education institutions | 所有教育機構
+Educational institutions including primary schools, secondary schools, universities and colleges | 教育機構，包括小學、中學、大學及專上學院
 
-- **Primary Schools | 小學** - `education-primary.tsv`  
-  Primary education institutions | 小學教育機構
+### 🏥 Healthcare & Social Assistance | 醫療保健及社會服務
+**Directory:** `healthcare_social/`
 
-- **Secondary Schools | 中學** - `education-secondary.tsv`  
-  Secondary education institutions | 中學教育機構
+Healthcare providers, medical institutions, and social service organizations | 醫療服務提供者、醫療機構及社會服務組織
 
-- **Higher Education | 高等教育** - `education-higher-ed.tsv`  
-  Universities and colleges | 大學及專上學院
+### 📈 Listed Companies | 上市公司
+**Directory:** `listed_companies/`
 
-### 🏛️ Public Sector | 公共部門
+Hong Kong Stock Exchange listed companies and publicly traded entities | 香港交易所上市公司及公開交易實體
 
-- **Government | 政府** - `government.tsv`  
-  Government departments and agencies | 政府部門及機構
+### 🏛️ Public Administration | 公共行政
+**Directory:** `public_administration/`
 
-- **Healthcare | 醫療** - `healthcare.tsv`  
-  Healthcare providers and medical institutions | 醫療服務提供者及醫療機構
+Government departments, agencies, and public sector organizations | 政府部門、機構及公共部門組織
 
-### 📦 Logistics & Transport | 物流運輸
+### 🚢 Transportation & Storage | 運輸及倉儲
+**Directory:** `transportation_storage/`
 
-- **Freight & Logistics | 貨運物流** - `haffa.tsv`  
-  Hong Kong Association of Freight Forwarding and Logistics members | 香港貨運物流業協會成員
+Transportation providers, logistics companies, and storage facilities | 運輸服務提供者、物流公司及倉儲設施
 
-### 🏢 Corporate & Market | 企業與市場
+### 🛒 Wholesale & Retail Trade | 批發及零售貿易
+**Directory:** `wholesale_retail/`
 
-- **Listed Companies | 上市公司** - `listed-hkex.tsv`  
-  Hong Kong Stock Exchange listed companies | 香港交易所上市公司
-
-### 🤝 Non-Profit Organizations | 非牟利組織
-
-- **NGOs | 非政府組織** - `ngo.tsv`  
-  Non-governmental organizations | 非政府組織
+Wholesale distributors and retail establishments | 批發分銷商及零售商店
 
 ---
 
@@ -78,10 +69,28 @@ All data files are in **TSV (Tab-Separated Values)** format for easy parsing and
 
 所有數據檔案均為 **TSV（Tab-Separated Values，以製表符分隔）** 格式，方便解析並與各種數據處理工具兼容。
 
-### Typical Fields | 典型欄位:
+### Typical Fields | 典型欄位: 
 - Domain name | 域名
 - Organization name | 機構名稱
 - Additional metadata (varies by sector) | 其他元數據（因行業而異）
+
+---
+
+## 📁 Repository Structure | 儲存庫結構
+
+```
+HK-Domain-Resources/
+├── accommodation_food/       # 住宿及餐飲服務
+├── administrative_support/   # 行政及支援服務
+├── arts_recreation/          # 藝術、娛樂及康樂
+├── education/                # 教育
+├── healthcare_social/        # 醫療保健及社會服務
+├── listed_companies/         # 上市公司
+├── public_administration/    # 公共行政
+├── transportation_storage/   # 運輸及倉儲
+├── wholesale_retail/         # 批發及零售貿易
+└── README.md
+```
 
 ---
 
@@ -103,6 +112,9 @@ All data files are in **TSV (Tab-Separated Values)** format for easy parsing and
 - **Educational Reference | 教育參考**  
   Research institutional digital presence | 研究機構的數字化存在
 
+- **Market Intelligence | 市場情報**  
+  Track industry participants and market landscape | 追蹤行業參與者和市場格局
+
 ---
 
 ## 💻 Usage Examples | 使用範例
@@ -111,47 +123,75 @@ All data files are in **TSV (Tab-Separated Values)** format for easy parsing and
 ```python
 import pandas as pd
 
-# Load bank domains
-df = pd.read_csv('bank.tsv', sep='\t')
+# Load education sector domains
+df = pd.read_csv('education/education.tsv', sep='\t')
 print(df.head())
+
+# Load listed companies
+df_listed = pd.read_csv('listed_companies/listed.tsv', sep='\t')
+print(df_listed.info())
 ```
 
 ### Command line processing
 ```bash
-# Count entries
-wc -l bank.tsv
+# Count entries in a specific sector
+wc -l education/*.tsv
 
-# Search for specific domain
-grep "hsbc" bank.tsv
+# Search for specific domain across all sectors
+find . -name "*.tsv" -exec grep -l "hku.hk" {} \;
 
-# Combine all financial sector files
-cat bank.tsv financial.tsv insurance.tsv > financial_all.tsv
+# Combine all files from a sector
+cat education/*.tsv > education_combined.tsv
+
+# List all TSV files in the repository
+find . -name "*.tsv"
+```
+
+### Data Analysis (Python)
+```python
+import pandas as pd
+import glob
+
+# Load all TSV files from a directory
+sector_path = 'education/*.tsv'
+all_files = glob.glob(sector_path)
+
+df_list = []
+for filename in all_files:
+    df = pd.read_csv(filename, sep='\t')
+    df['source_file'] = filename
+    df_list.append(df)
+
+# Combine all dataframes
+combined_df = pd.concat(df_list, ignore_index=True)
+print(f"Total domains: {len(combined_df)}")
 ```
 
 ---
 
 ## 📝 Contributing | 貢獻
 
-Contributions are welcome! If you notice any missing domains or have updates to existing entries:
+Contributions are welcome! If you notice any missing domains or have updates to existing entries: 
 
 歡迎貢獻！如果您發現任何遺漏的域名或需要更新現有條目：
 
 1. Fork this repository | Fork 本儲存庫
-2. Add or update entries in the appropriate TSV file | 在適當的 TSV 檔案中添加或更新條目
+2. Add or update entries in the appropriate TSV file under the relevant directory | 在相關目錄下的適當 TSV 檔案中添加或更新條目
 3. Ensure data follows the existing format | 確保數據遵循現有格式
 4. Submit a pull request with a clear description | 提交帶有清晰描述的 pull request
 
-### Guidelines | 指引:
+### Guidelines | 指引: 
 - Maintain TSV format consistency | 保持 TSV 格式一致性
 - Verify domain accuracy | 驗證域名準確性
 - Include official sources when possible | 盡可能包含官方來源
 - One logical change per PR | 每個 PR 一個邏輯變更
+- Place files in the correct category directory | 將檔案放置在正確的分類目錄中
 
 ---
 
 ## 📄 License | 授權
 
-This data is provided for research and informational purposes. Please ensure appropriate use of this data in compliance with applicable laws and regulations.
+This data is provided for research and informational purposes.  Please ensure appropriate use of this data in compliance with applicable laws and regulations.
 
 這些數據僅供研究和參考之用。請確保適當使用這些數據，並遵守適用的法律法規。
 
@@ -181,8 +221,10 @@ This data is provided for research and informational purposes. Please ensure app
 - [HKIRC - Hong Kong Internet Registration Corporation](https://www.hkirc.hk/)
 - [HKEX - Hong Kong Exchanges and Clearing](https://www.hkex.com.hk/)
 - [GovHK - Hong Kong Government Portal](https://www.gov.hk/)
+- [Hong Kong Trade Development Council](https://www.hktdc.com/)
+- [Companies Registry Hong Kong](https://www.cr.gov.hk/)
 
 ---
 
 **Maintained by | 維護者:** [@FusionPlmH](https://github.com/FusionPlmH)  
-**Last Updated | 最後更新:** 2026-01-13
+**Last Updated | 最後更新:** 2026-01-15
