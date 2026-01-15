@@ -1,0 +1,6 @@
+industry	category	name	domain	source	dataset
+finance_insurance	stored_value_facility	Alipay Financial Services (HK) Limited	alipayhk.com	HKMA Register of SVF Licensees (HTML) + mapped from financial.py inventory | HKICL FPS participant page	merged.tsv | svf.tsv
+finance_insurance	stored_value_facility	ePaylinks Technology Co., Limited	globalcash.hk	HKMA Register of SVF Licensees (HTML) + mapped from financial.py inventory | HKICL FPS participant page	merged.tsv | svf.tsv
+finance_insurance	stored_value_facility	Octopus Cards Limited	octopus.com.hk	HKMA Register of SVF Licensees (HTML) + mapped from financial.py inventory | HKICL FPS participant page	merged.tsv | svf.tsv
+finance_insurance	stored_value_facility	HKT Payment Limited	tapngo.com.hk	HKMA Register of SVF Licensees (HTML) + mapped from financial.py inventory | HKICL FPS participant page	merged.tsv | svf.tsv
+finance_insurance	stored_value_facility	WeChat Pay Hong Kong Limited	weiyun.com	HKMA Register of SVF Licensees (HTML) + mapped from financial.py inventory | HKICL FPS participant page	merged.tsv | svf.tsv

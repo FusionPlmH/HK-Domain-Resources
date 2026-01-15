@@ -1,0 +1,12 @@
+industry	category	name	domain	source	dataset
+finance_insurance	money_service_operator	SINO ALLIED (HK) LIMITED	awac.com	Customs MSO Licensee Register (CSV) + mapped from financial.py inventory | HKFI Member Companies	merged.tsv | mso.tsv
+finance_insurance	money_service_operator	PO YUEN ENTERPRISE DEVELOPMENT LIMITED	bochk.com	Customs MSO Licensee Register (CSV) + mapped from financial.py inventory | HKMA acctopen-banks-contact	merged.tsv | mso.tsv
+finance_insurance	money_service_operator	GLOBE CENTER LIMITED	citibank.com.hk	Customs MSO Licensee Register (CSV) + mapped from financial.py inventory | HKMA acctopen-banks-contact	merged.tsv | mso.tsv
+finance_insurance	money_service_operator	MERCHANTS CENTURY LIMITED	cmbchina.com	Customs MSO Licensee Register (CSV) + mapped from financial.py inventory | HKICL FPS participant page	merged.tsv | mso.tsv
+finance_insurance	money_service_operator	PERFECT PIONEER TRADING LIMITED TRADING AS WANG ON EXCHANGE	com.ph	Customs MSO Licensee Register (CSV) + mapped from financial.py inventory | HKFI Member Companies	merged.tsv | mso.tsv
+finance_insurance	money_service_operator	WESTERN UNION ONLINE LIMITED	fubonbank.com.hk	Customs MSO Licensee Register (CSV) + mapped from financial.py inventory | HKMA acctopen-banks-contact	merged.tsv | mso.tsv
+finance_insurance	money_service_operator	SHANGHAI EBPP INFORMATION SERVICE (HONGKONG) CO., LIMITED	hkicl.com.hk	Customs MSO Licensee Register (CSV) + mapped from financial.py inventory | HKICL FPS participant page	merged.tsv | mso.tsv
+finance_insurance	money_service_operator	BRILLIANT (INTERNATIONAL) BUSINESS COMPANY LIMITED TRADING AS BRILLIANT MONEY EXCHANGE	hsbc.com.hk	Customs MSO Licensee Register (CSV) + mapped from financial.py inventory | HKMA acctopen-banks-contact	merged.tsv | mso.tsv
+finance_insurance	money_service_operator	OCTOPUS FINANCIAL SERVICES CO., LIMITED	octopus.com.hk	Customs MSO Licensee Register (CSV) + mapped from financial.py inventory | HKICL FPS participant page	merged.tsv | mso.tsv
+finance_insurance	money_service_operator	KINGDOM HARVEST INC LIMITED TRADING AS WEMIT	ukpandi.com	Customs MSO Licensee Register (CSV) + mapped from financial.py inventory | HKFI Member Companies	merged.tsv | mso.tsv
+finance_insurance	money_service_operator	SINCERE WEALTH INTERNATIONAL COMPANY LIMITED TRADING AS TAI KAM SHING RENMINBI EXCHANGE CO.	uobgroup.com	Customs MSO Licensee Register (CSV) + mapped from financial.py inventory | HKMA acctopen-banks-contact	merged.tsv | mso.tsv

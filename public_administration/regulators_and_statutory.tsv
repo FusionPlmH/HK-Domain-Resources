@@ -1,8 +1,0 @@
-industry	category	name	domain	source	dataset
-public_administration	regulators_and_statutory	Accounting and Financial Reporting Council	afrc.org.hk	GovHK directory	all.tsv | merged.tsv
-public_administration	regulators_and_statutory	Export Credit Insurance Corporation, Hong Kong	hkecic.com	GovHK directory	all.tsv | merged.tsv
-public_administration	regulators_and_statutory	Hong Kong Monetary Authority	hkma.gov.hk	GovHK directory	all.tsv | merged.tsv
-public_administration	regulators_and_statutory	Insurance Authority	ia.org.hk	GovHK directory	all.tsv | merged.tsv
-public_administration	regulators_and_statutory	Insurance, Office of the Commissioner of	oci.gov.hk	GovHK directory	all.tsv | merged.tsv
-public_administration	regulators_and_statutory	Securities and Futures Appeals Tribunal	sfat.gov.hk	GovHK directory	all.tsv | merged.tsv
-public_administration	regulators_and_statutory	Securities and Futures Commission	sfc.hk	GovHK directory	all.tsv | merged.tsv

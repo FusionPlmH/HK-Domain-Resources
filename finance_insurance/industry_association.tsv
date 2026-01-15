@@ -1,0 +1,3 @@
+industry	category	name	domain	source	dataset
+finance_insurance	industry_association	The Hong Kong Association of Banks (HKAB)	hkab.org.hk	Manual override	all.tsv | merged.tsv
+finance_insurance	industry_association	Hong Kong Interbank Clearing Limited (HKICL)	hkicl.com.hk	Manual override	all.tsv | merged.tsv

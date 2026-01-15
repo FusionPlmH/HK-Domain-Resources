@@ -1,0 +1,2 @@
+industry	category	name	domain	source	dataset
+public_administration	banking_payments	Hong Kong Monetary Authority (HKMA)	hkma.gov.hk	HKICL FPS participant page | Derived from financial.tsv (hkicl_fps_participant)	all.tsv | merged.tsv | payment-fps.tsv

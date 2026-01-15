@@ -1,0 +1,2 @@
+industry	category	name	domain	source	dataset
+finance_insurance	market_infrastructure	Exchanges and Clearing Ltd., Hong Kong	hkex.com.hk	GovHK directory	all.tsv | merged.tsv

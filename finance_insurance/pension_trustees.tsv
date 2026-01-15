@@ -1,0 +1,13 @@
+industry	category	name	domain	source	dataset
+finance_insurance	pension_trustees	Bank Consortium Trust Company Limited	bcthk.com/en	MPFA Public Register - MPF Approved Trustees	merged.tsv | mpfa.tsv
+finance_insurance	pension_trustees	BOCI-Prudential Trustee Limited	bocpt.com/homepage/en	MPFA Public Register - MPF Approved Trustees	merged.tsv | mpfa.tsv
+finance_insurance	pension_trustees	Sun Life Trustee Company Limited	com.hk/en/?vgnlocale=en_ca	MPFA Public Register - MPF Approved Trustees	merged.tsv | mpfa.tsv
+finance_insurance	pension_trustees	China Life Trustees Limited	com.hk/products/mpf	MPFA Public Register - MPF Approved Trustees	merged.tsv | mpfa.tsv
+finance_insurance	pension_trustees	Bank of East Asia (Trustees) Limited	com/html/en/bea-mpf-index.html	MPFA Public Register - MPF Approved Trustees	merged.tsv | mpfa.tsv
+finance_insurance	pension_trustees	Bank of Communications Trustee Limited	hk/bankcommsite/shtml/trust/en/2600795/list.shtml?channelid=2600795	MPFA Public Register - MPF Approved Trustees	merged.tsv | mpfa.tsv
+finance_insurance	pension_trustees	AIA Company (Trustee) Limited	hk/en/index.html	MPFA Public Register - MPF Approved Trustees	merged.tsv | mpfa.tsv
+finance_insurance	pension_trustees	Manulife Provident Funds Trust Company Limited	hk/en/individual.html	MPFA Public Register - MPF Approved Trustees	merged.tsv | mpfa.tsv
+finance_insurance	pension_trustees	HSBC Provident Fund Trustee (Hong Kong) Limited	hsbc.com.hk	MPFA Public Register - MPF Approved Trustees	merged.tsv | mpfa.tsv
+finance_insurance	pension_trustees	Mandatory Provident Fund Schemes Authority	mpfa.org.hk	GovHK directory	all.tsv | merged.tsv
+finance_insurance	pension_trustees	Principal Trust Company (Asia) Limited	principal.com.hk	MPFA Public Register - MPF Approved Trustees	merged.tsv | mpfa.tsv
+finance_insurance	pension_trustees	YF Life Trustees Limited	yflife.com/en	MPFA Public Register - MPF Approved Trustees	merged.tsv | mpfa.tsv
