@@ -1,4 +1,5 @@
 industry	category	name	domain	source	dataset
+administrative_support	recruitment_eaa_agency	best-labour	126.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	1maid2 Limited	1maid2.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	339 HR	339hr.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	3C Concept Helper Limited	3cconcepthelper.com	Labour Department - Employment Agencies Portal	eaa.tsv
@@ -16,6 +17,7 @@ administrative_support	recruitment_eaa_agency	企業資助有限公司	acceler.c
 administrative_support	recruitment_eaa_agency	Accolade HR Limited	accoladegroup.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	思賢人力資源有限公司	achievers.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	ACI HR SOLUTIONS LIMITED	acihr.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	D & T HUMAN RESOURCES COMPANY LIMITED	acpcpa.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	Action Plan Asia Limited	actionplanasia.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	ACTIVE GLOBAL SPECIALISED CAREGIVERS (HONG KONG) PTE LIMITED	activeglobalcaregiver.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	ACTON CONSULTING LIMITED	actoncl.com	Labour Department - Employment Agencies Portal	eaa.tsv
@@ -45,6 +47,7 @@ administrative_support	recruitment_eaa_agency	A.I. Pacific Consultants	ai-pacifi
 administrative_support	recruitment_eaa_agency	AIESEC Hong Kong Limited	aiesec.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	Asia Investment Services Limited	aigroup.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	aimHigher Consultancy Services Limited	aimhigher.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Con Global HR Limited	aimscs.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	AIRTECH M&E HK LIMITED	airtech.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	AIX Capital Limited	aix-cap.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	AJOB	ajobhk.com	Labour Department - Employment Agencies Portal	eaa.tsv
@@ -144,7 +147,7 @@ administrative_support	recruitment_eaa_agency	Avantie Global Limited	avantie.com
 administrative_support	recruitment_eaa_agency	Avanza Consulting Limited	avanzaconsult.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	Averi Hong Kong Limited	averi.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	Averti Compliance Consultancy Limited	averti.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
-administrative_support	recruitment_eaa_agency	A.V.M.S. Limited	avms.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	EASY LIKE EMPLOYMENT LIMITED	avms.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	ALLWORTH CONSULTANTS LIMITED	awclhk.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	AVONWIN EMPLOYMENT AGENCY	awintours.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	Axiom Global HK Limited	axiomlaw.com	Labour Department - Employment Agencies Portal	eaa.tsv
@@ -153,50 +156,326 @@ administrative_support	recruitment_eaa_agency	AY Talent Solutions Limited	aytale
 administrative_support	recruitment_eaa_agency	Azonne Talent	azonne.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	BabeKiss HR	babekiss.net	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	BABY LOVE (AFTER BIRTH SERVICES) CENTER	babylove.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BAE AND PARTNERS LIMITED	baenpartners.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	Baker Tilly Hong Kong	bakertillyhk.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	BAMBOOS PROFESSIONAL NURSING SERVICES LIMITED	bamboos.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	Bandung Enterprises	bandung.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
-administrative_support	recruitment_eaa_agency	ANDA CO.	biznetvigator.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BARBER LIMITED	barber-search.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BARKER PARTNERS LIMITED	barker-partners.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Barons & Company (China) Limited	barons-co.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Barson Executive Search Limited	barsones.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Bauer Kaiser & Co Limited	bauerkaiser.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BC DREAMS COMPANY LIMITED	bcdreams.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BDO FINANCIAL SERVICES LIMITED	bdo.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Bearmosa Limited	bearmosa.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BeConnect Personnel Consultancy Limited	beconnectpersonnel.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BEEHIRE PERSONNEL LIMITED	beehire.co	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Beemye Employment Centre Limited	beemye.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Behold Consulting	beholdconsulting.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Belief Employment Limited	belief.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Belsizeway (Hong Kong) Limited	belsizeway.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Be Myjob Company Limited	bemyjobhk.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BENEVOLENCE REHABILITATION SERVICES LIMITED	bene-rehab.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Bengal Overseas Employment Limited	bengalmaids.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Beracah Consultancy Limited	beracah.asia	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Besteam Personnel Consultancy Limited	besteam.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Best Helper Services Centre	besthelper.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Bestlink Employment Agency Limited	bestlinkmaids.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Best Choice Employment Center Company Limited	bestmaids.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Bestwell Employment Agency (HK) Limited	bestwellhk.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Betterment Asia	betterment.asia	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Betty Employment Agency	bettyemployment.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BGC GROUP (HK) LIMITED	bgc-group.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BIPO SERVICE NORTH ASIA LIMITED	biposervice.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BIR EMPLOYMENT AGENCY LIMITED	bir.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	C. & K. ENTERPRISES COMPANY LIMITED	biznetvigator.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Black Swan Group Limited	blackswangroup.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Blanchardes Executive Search Limited	blanchardes.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BLISS EMPLOYMENT SERVICES LIMITED	bliss-agency.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Blossom HR and Employment Agency Limited	blossom-people.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BLUEMONT CONSULTING	bluemontconsulting.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BM Human Resources & Constructions Limited	bmconstructions.net	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BMI RESOURCES MANAGEMENT LIMITED	bmintelligence.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	B & A Co.	bna-agency.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Bo Le Leaders Limited	bo-le.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Bobymark Employment Agency	bobymark.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BOHAN GROUP LIMITED	bohanco.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BOLDNINE CONSULTANT EMPLOYMENT & TRAINING AGENCY	boldnine.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Bonanza Recruit Limited	bonanzarecruit.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Bond West Consultants	bondwest.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Bowen Partners Limited	bowenpartners.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BOYDEN ASIA PACIFIC LIMITED	boyden.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BRAINFORCE (HONG KONG) LIMITED	brainforce-ag.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Bravo Personnel Consultancy Limited	bravopersonnel.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Billion Recruitment Consultant Limited	brc-hk.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BRENTWOOD INTERNATIONAL CONSULTANTS LIMITED	brentwood-co.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BRIDGELINK HR COMPANY LIMITED	bridgelinkasia.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BRIGHT MAISON DEVELOPMENT COMPANY LIMITED	brmaison.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Bryce Don Limited	brycedon.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Bright Talent & Co.	btalent.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	ALTURA GLOBAL CONSULTANCY COMPANY LIMITED	btl-pro.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Bayou Technology Services Limited	bts.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Burke Associates Limited	burke-associates.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	California Employment Agency	california-maid.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Campsky Limited	campskyltd.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CANDIDATESDB.COM LIMITED	candidatesdb.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Candid Selection Hong Kong Limited	candidselection.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Capital Access Limited	capitalaccess.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Capital People	capitalpeople.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Captiare Limited	captiare.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CARBON INTERNATIONAL LIMITED	carbon.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Care Choice Consultancy Limited	carechoicehk.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Care Compass Services Limited	carecompasshk.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CARECONNECT	careconnect.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	賽睿國際有限公司	careerexe.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CAREGIVERS ALLIANCE (HOME) LIMITED	caregiversall.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CARETIA LIMITED	caretia.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CARE U PROFESSIONAL NURSING SERVICE LIMITED	careu.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CARL HOPKINS & PARTNERS LIMITED	carlhopkinsandpartners.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Carraway Group Limited	carrawaygroup.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Castle Peak Group	castlepeak-group.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Casual DB	casualdb.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CATCH MY CARE LIMITED	catchmycare.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CATERBEE HR SOLUTIONS LIMITED	caterbee.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CAVENDISH SEARCH LIMITED	cavendishsearch.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CBSI LIMITED	cbsitechnologies.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	C C Light Company Limited	cclight.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CE & F Partners Limited	cefpartners.co	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	China Economic Information (HK) Limited	cei.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Center Point Personnel	centerpointp.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CENTRIX PROFESSIONALS	centrix.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CenturyTech Personnel Consultant Services	centurytechpcs.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CF PHILIPPINE DOMESTIC HELPER SERVICE	cfph-domestichelperservice.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CHALICE CONSULTING	chalice.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Champ Partners Limited	champpartners.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Chancery House Limited	chanceryhouse.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Chandler Macleod	chandlermacleod.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	Asian Developing Talent	channelgb.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Charis Management Consultants Limited	charis-advisors.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Charlotte Consulting Limited	charlotteconsultancy.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Charlotte Frank Limited	charlottefrank.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Charming Headhunt Limited	charming-hr.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Charterhouse Limited	charterhouse.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Cheers Employment Limited	cheersmaid.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CHEERTEX-HUMAN RESOURCES CONSULTANCY	cheertex-promo.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Cheer Visions Talent Solutions	cheervisionsltd.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Chelsea Consultancy Company Limited	chelsea-consultancy.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Chen Chen Co	chenchen.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CHEONG HING SERVICES LIMITED	cheonghing.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CHESTERTON CONSULTING CO LIMITED	chesterton.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	中國通信服務香港有限公司	chinaccsi.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	China Partners Consultancy Limited	chinapartners.cn	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CHINASOFT INTERNATIONAL TECHNOLOGY SERVICE (HONG KONG) LIMITED	chinasofti.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Chin House Employment Agency Limited	chinhouse.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CHK Convergence (Hong Kong) Technology Company Limited	chkc-hk.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CHK International Limited	chkeducation.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CHOY'S HUMAN RESOURCE CONSULTANCY LIMITED	choyshr.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Christian Bassett (Hong Kong) Limited	christianbassett.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Cielo Talent Limited	cielotalent.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CIIC HONG KONG LIMITED	ciichk.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CIRCLE RECRUITMENT LIMITED	circlerecruitment.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CITI CONSTRUCTION AND ENVIRONMENTAL SERVICES LIMITED	citicm.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	City Executive Consultants Limited	cityexec.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CKC Solutions Limited	ckcsolutions.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CARLYLE KINGSWOOD GLOBAL LIMITED	ckgsearch.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CLAREMONT CONSULTING APAC LIMITED	claremontconsulting.asia	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Clarrow Hong Kong Limited	clarrow.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CLASSY WHEELER ICT RECRUITMENT	classywheeler.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CLEAR BUSINESS SOLUTIONS LIMITED	clear.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CLEVER TECH LIMITED	clevertech.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Click Services Limited	clicksc.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	C Link Partners Limited	clinkpartners.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CLPS Technology (Hong Kong) Co., Limited	clpsglobal.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CL TECHNICAL SERVICES LIMITED	clts.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Captivate Management	cm-people.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CMCC	cmcc-ltd.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CMS (Asia) Limited	cmsasia.co	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	C & R Employment Agency	cnr.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CO-OP CONSULTANTS LIMITED	co-opcons.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BLACKSQUARE LIMITED	co.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Cognasia Talent Hong Kong Limited	cognasiatalent.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CometCore Industries Limited	cometcoreind.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	COMMENCE COMPANY LIMITED	commencegroup.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CO Human Resources Consultancy	complianceone.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CONCORD INFORMATION TECHNOLOGY INTERNATIONAL LIMITED	concordinfotech.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Concord Professional Employment Service Centre	concordpro.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Conduit Search Limited	conduit-search.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CONNECTEDGROUP LIMITED	connectedgroup.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CONNECT THE DOTS LIMITED	connectthe-dots.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CONNERS CONSULTING LIMITED	connersconsulting.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Connexe Search Limited	connexesearch.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CONNEXIONS CONSULTING LIMITED	connexionsccl.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Consult DB Co. Limited	consultdb.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Consultonic Talent Limited	consultonictalent.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CoolJobz	cooljobz.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CoRecruit	corecruit.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CHINA CORNERSTONE INTERNATIONAL GROUP LIMITED	cornerstone-group.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Cornerstone Global Partners	cornerstoneglobalpartners.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Corpway Services Limited	corpwayservices.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CHASSEUR PRO EXECUTIVE CONSULTANT LIMITED	cpexconsult.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CPJOBs.COM	cpjobs.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CHEER PROSPECT EMPLOYMENT AGENCY LIMITED	cppml.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Computer Recruitment Consultants Limited	crcltd.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Crecere Asia Limited	crecereasia.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CREDENCE EMPLOYMENT AGENCY LIMITED	credencemployment.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CREDIBLE EMPLOYMENT COMPANY LIMITED	credible.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Crossings Executive Management Services	crossingsexecutive.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CrossWise Recruitment Limited	crosswise-recruitment.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CS Global Consultancy Limited	csg-consultancy.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CTL Recruitment & Consultation Service Limited	ctl-rcgroup.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CW Business Services Limited	cwhkcpa.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CXC MANAGED SERVICES LIMITED	cxcglobal.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CHANCE MANAGEMENT	cxlp.net.cn	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CYBERSHARK LIMITED	cybersharkhk.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Cyclopes Career Limited	cyclopescareer.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CY Consultant Services Limited	cyhr.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Cypress Advisory & Consulting Limited	cypresscpa.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	D3 Human Resources (HK) Limited	d3service.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	DANDELION HELPER RECRUITMENT CENTRE	dandelionhelper.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	DARMAX LIMITED	darmaxglobal.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	DATAR CONSULTANTS & SERVICES LIMITED	datar.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	DAVID HALL PERSONNEL CONSULTANT	davidhall.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Day & Night Healthcare Services Limited	dayandnight24.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	DAY DAY HELP	daydayhelp.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	DC Cityverse Limited	dcholdings.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	DC Partners Recruitment Limited	dcprec.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Dean James Recruitment	deanjames.io	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	DECT-GES LIMITED	dectges.org	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Deer Network Systems Limited	deer.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Delight Employment Agency	delightemployment.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	DELKEN GROUP LIMITED	delken.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	DEZAN SHIRA & ASSOCIATES LIMITED	dezshira.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	DHR Global	dhrglobal.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	DIALOGUE IN THE DARK (HK) FOUNDATION LIMITED	dialogue-experience.org.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	directhire.hk	directhire.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	DISCOVER SELECT	discoverselect.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	DK & C Employment Service Co.	dknc.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	DRAGON TALENT INTERNATIONAL (HK) LIMITED	dmocg.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	DNA RECRUIT PARTNERS LIMITED	dnarecruitpartners.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Don Nelson Recruitment Limited	donnelson.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Don Nelson Staffing Limited	donnelsongp.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Doula Easy Limited	doulaeasy.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Dragon Allies Limited	dragonallies.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Drake Overload Limited	drake.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Dream Care	dreamcare.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Dream Collection Network Limited	dreamcollection.net	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Dresden Green Consulting Limited	dresdengreen.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Discovery Solution	dscsol.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	e-Job Agency Limited	e-job.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	EACT Consult Pte Limited	eact.com.sg	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Eagle Consultants Limited	eagleconsultant.net	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Eagle Partners (International) Co., Limited	eaglepartnersint.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	EASSON HOLDINGS LIMITED	easson.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	EASTERN SOURCE LIMITED	easternsource.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Easy Hire	easyhire.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	EASY MATCH EMPLOYMENT CENTRE LIMITED	easymatchmaid.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Easy ProCare Employment Agency	easyprocare.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Eban International Limited	eban.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	EBRO EXECUTIVE SEARCH LIMITED	ebrohrs.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	EC Advisors Limited	ecadvisors.asia	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	EC Talent Search Limited	ecfix.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	EC Nurse Connect	echealthcare.com, juliechow	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	ECHO TIDE INTERNATIONAL LIMITED	echotide.io	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	ECMS HK Limited	ecmanagedsolutions.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	ECWAY LIMITED	ecway.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Eddid HR Consultant Limited	eddid.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Eden Elder Care Specialists Limited	edencare.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Edenthorpe Business Services Limited	edenthorpesearch.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	EDPS Systems Limited	edps.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Eduforce Limited	eduforce.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	EFINANCIAL CAREERS PTE. LTD.	efinancialcareers.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	EGON ZEHNDER INTERNATIONAL LIMITED	egonzehnder.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Eidealink Limited	eidealink.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	EIRE SYSTEMS (HONG KONG) LIMITED	eiresystems.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	EISEN GLOBAL PARTNERS (HONG KONG) LIMITED	eisen-partners.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	El Concord Limited	elconcord.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	ELEE CONSULTING LIMITED	eleecl.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Elevate Global (Hong Kong) Limited	elevate-vista.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	ELEVATE HUMAN CAPITAL	elevatehumancapital.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Elite Personnel Consultancy	elitemakeup.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Elliot & Partners Limited	elliotglobal.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Elliott Scott HR Recruitment Limited	elliottscotthr.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	ELPIS SEARCH LIMITED	elpis-search.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Elysian Executive Solution Limited	elysianes.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	EMINENCE CORPORATE SERVICES LIMITED	eminenceam.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Empire Talent	empirecsl.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	EMPIRE FAIR (FAR EAST) CO.	empirefair.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Employ Hub	employhub.co	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	DAVID CHEUNG EMPLOYMENT AGENCY LIMITED	employment.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	Anotech Energy Hong Kong Limited	executivesolutions.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Business and Talent Management Co., Limited	fiic.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Craig Fowler International Limited	fowlerintl.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Copperstone Personnel Company	ftp-resources.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	Arrow Employment Services	galilee153.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	China Guangdong (H.K.) Company for Foreign Labour Service	gdnyhr.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Colorfly Employment Services Limited	get-on.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CHINA INTERNATIONAL TAXATION MANAGEMENT LIMITED	globalfinance.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CITY CARE	globalvaluesolutions.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	迅勞務顧問有限公司	gmail.com; fwbwai	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	高維諮詢(香港)有限公司	gogowell.cn	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	EMMK TALENT GROUP LIMITED	goldteamconsultants.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	香港果爾佳服務有限公司	golkia.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	譽諾(香港)有限公司	good-will-hk.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	852 HR	guardianpfs.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BIOHK Limited	haikanglife.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	香港灣區時代職業介紹所	harbortimes-hr.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	DC EXECUTIVE SEARCH & RECRUITMENT LIMITED	hicral.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	ACHIEVER COMPANY LIMITED	hkachiever.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	Association of Retired Elderly Limited	hkare.org	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Bright Universal Consulting Limited	hkbuc.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CoCoon	hkcocoon.org	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Coalition Talent Connect	hkeds.org	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	EMINENT TALENTS	hkelderly.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CAREER TIMES ONLINE LIMITED	hket.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	DELTA PERSONNEL CONSULTANTS LIMITED	hkstar.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	ASIA PIONEER EMPLOYMENT AGENCY LIMITED	homecareagency.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	eHotelsHR LIMITED	hotelshr.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	Ample Human Resource & Employment Company	hotmail.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Dickson Employment Agency	hotmaill.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Buy Yes Network Limited	i-access.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CSC Corporate Solutions (Hong Kong) Limited	intertrustgroup.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Career Connect Agency	joblinkhk.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	期柏有限公司	keipak.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	匠峰勞務顧問有限公司	labourservices.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Cheery Mount Consulting Company Limited	lexiesolutions.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	EAST TIME HOLDINGS LIMITED	live.ca	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	ASIAN CONSTRUCTION LIMITED	live.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	Active Ageing Centre	llhome.org	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	ALEXIS SERVICES LIMITED	magicsearch.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	C.T. Maids Limited	maidsdot.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	安栢市場策劃(香港)有限公司	mpeghk.com	Labour Department - Employment Agencies Portal	eaa.tsv
-administrative_support	recruitment_eaa_agency	Advance Health Care Service Co.	netvigator.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Bonding You Limited	msn.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Chris Benne	netivgator.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CORPORATE HR MANAGEMENT CONSULTANCY LIMITED	netvigator.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	E-LOK Employment Agency	newpages.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	銳博(香港)人力資源服務有限公司	nnngu.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	泓峻(華南)人力資源有限公司	oj-logistics.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Best United Employment Agency	on-nets.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	傲馬司機招聘及租車服務有限公司	optimum-driver.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	粵港澳伯樂商務企業顧問	partnerbusiness.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	AORTA PROFESSIONAL SEARCH GROUP	pplbservices.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	健康教育基金會有限公司	primarycare.org.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Ec-ping Employment Agency Limited	rcfgrp.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	AGroup Company	recruithk.net	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Brilliant Talents Centre	rnt-consulting.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	泓昇顧問有限公司	scltd.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Cowsquare Technology Limited	secondtalent.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Best of Best (BOB) Employment Centre	shingyan.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	耆職	slasherpro.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BANK STREET BY SLOANE MANHATTAN	sloaneasia.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	Arete Consultants	strategicon.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	陽光老友記薦人館	sunshinebuddies.org.hk	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Emerpus Human Resource	supremeacc.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CHINA TALENT INSIGHTS LIMITED	talentinsights.cn	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	天時物流管理有限公司	tclmgroup.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	Asia Nova	the-nova.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BLOOM OF YOUTH CO., LIMITED	thebloomofyouth.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	DANOS ASSOCIATES APAC LIMITED	thedanosgroup.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	BREWER MORRIS	thesrgroup.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	斑馬健康	thezebra.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	APEX BUSINESS SERVICES LIMITED	toyapex.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	眾智顧問	u-igroup.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	CHINA XIN YONGAN INDUSTRIAL COMPANY LIMITED	yafco.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	ALL PROFIT ALLIANCE LIMITED	yesmaster.com.hk	Labour Department - Employment Agencies Portal	eaa.tsv
-administrative_support	recruitment_eaa_agency	A-1 Personnel Services	ymail.com	Labour Department - Employment Agencies Portal	eaa.tsv
+administrative_support	recruitment_eaa_agency	Bauhinia Employment Service Company	ymail.com	Labour Department - Employment Agencies Portal	eaa.tsv
 administrative_support	recruitment_eaa_agency	中港智獵頭服務	zzthr.com.cn	Labour Department - Employment Agencies Portal	eaa.tsv
