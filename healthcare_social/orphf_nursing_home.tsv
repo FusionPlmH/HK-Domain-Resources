@@ -1,6 +1,0 @@
-industry	category	name	domain	source	dataset
-healthcare_social	orphf_nursing_home	香港防癌會賽馬會癌症康復中心	hkacs.org.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=NH	all.tsv
-healthcare_social	orphf_nursing_home	賽馬會善寧之家	hospicecare.org.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=NH	all.tsv
-healthcare_social	orphf_nursing_home	博愛醫院屯門護養院	pokoi.org.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=NH	all.tsv
-healthcare_social	orphf_nursing_home	香港聖公會護養院	skhwc.org.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=NH	all.tsv
-healthcare_social	orphf_nursing_home	仁濟護養院	ychss.org.hk	https://www.directory.orphf.gov.hk/Directory/tc/Home/QuickSearchByPHFType?PHFType=NH	all.tsv

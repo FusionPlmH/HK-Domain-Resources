@@ -1,7 +1,5 @@
 industry	category	name	domain	source	dataset
 arts_recreation	tourism_tichk_travel_agent	IMPERIAL HOT SPRING INTERNATIONAL RESORT MANAGEMENT (HOLDINGS) LTD	0080.com.cn	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
-arts_recreation	tourism_tichk_travel_agent	GUANGZHOU HONG KONG COACH TOUR SERVICE LIMITED	126.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
-arts_recreation	tourism_tichk_travel_agent	AITRIP HONG KONG INTERNATIONAL TRAVEL SERVICE LIMITED	163.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	SINOWAY (CHINA) LIMITED	168zght.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	18 TRAVEL LIMITED	18travel.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	PURPLE TRAVEL AND TOURS CO., LIMITED	27808111.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
@@ -88,7 +86,6 @@ arts_recreation	tourism_tichk_travel_agent	GLOBAL TARGET ENTERPRISE LTD	bettyemp
 arts_recreation	tourism_tichk_travel_agent	FUSON GROUP LIMITED	bigbigholiday.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	THE BIG BUS COMPANY (HONG KONG) LIMITED	bigbustours.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	BIG LINE HOLIDAY LIMITED	bigline.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
-arts_recreation	tourism_tichk_travel_agent	HAN&#039;S &amp; HANA TOUR COMPANY LIMITED	biznetvigator.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	ZEUS GROUP LIMITED	bliss-travel.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	BESTLINK CULTURAL EXCHANGE LIMITED	bltours.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	BLUE ASIA TRAVEL CO LTD	blueasiatravel.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
@@ -297,7 +294,6 @@ arts_recreation	tourism_tichk_travel_agent	GLOBAL TRAVEL LIMITED	globaltravel.co
 arts_recreation	tourism_tichk_travel_agent	GLOBAL EXPRESS TRAVEL SERVICE LIMITED	globaltravelservice.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	GLOBE INTERNATIONAL TRAVEL LIMITED	globetravel.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	GL TOURS OF HONG KONG LIMITED	gltours.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
-arts_recreation	tourism_tichk_travel_agent	HONG KONG TENSION FREE INTERNATIONAL TRAVEL COMPANY LIMITED	gmail.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	GOAL TRAVEL COMPANY LIMITED	goaltravel.net	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	ALOHA TRAVEL SERVICES LIMITED	gogologistics.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	GO GREEN TRAVEL (HK) LIMITED	gogreentravelhk.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
@@ -380,7 +376,6 @@ arts_recreation	tourism_tichk_travel_agent	HKKF TRAVEL LIMITED	hkkf.com.hk	Trave
 arts_recreation	tourism_tichk_travel_agent	MIRAMAR TRAVEL LIMITED	hkmiramartravel.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	HONG KONG RAMBLE TRAVEL SERVICE LIMITED	hkramble.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	HONG KONG STUDENT TRAVEL LIMITED	hkst.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
-arts_recreation	tourism_tichk_travel_agent	SHOESTRING TRAVEL LTD	hkstar.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	MAXTHON UNIVERSAL EXCHANGE CENTRE LIMITED	hkstudytour.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	SUNFLOWER TRAVEL SERVICE LTD	hksunflower.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	SYNERGY TRAVEL SERVICE LIMITED	hksynergytravel.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
@@ -409,8 +404,6 @@ arts_recreation	tourism_tichk_travel_agent	SIN MA TOURS LIMITED	hongsun.com.hk	T
 arts_recreation	tourism_tichk_travel_agent	HONG YI TRAVEL LIMITED	hongyitravel.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	HONOUR FAST LIMITED	honourfast.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	HOTLINE TRAVEL SERVICES LIMITED	hotlinetravel.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
-arts_recreation	tourism_tichk_travel_agent	HONG KONG YOUTH CHINESE CULTURAL EXCHANGE CENTRE LIMITED	hotmail.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
-arts_recreation	tourism_tichk_travel_agent	CHINA KING CENTURY INTERNATIONAL GROUP LIMITED	hotmail.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	HP TRAVEL LIMITED	hptravel.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	HR TRAVELLING LIMITED	hrtravelling.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	HS TRAVEL INTERNATIONAL COMPANY LIMITED	hstvl.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
@@ -424,7 +417,6 @@ arts_recreation	tourism_tichk_travel_agent	HYPERAIR INCORPORATION LIMITED	hypera
 arts_recreation	tourism_tichk_travel_agent	I-GOLDEN TOURS LIMITED	i-goldentours.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	INTERNATIONAL CONFERENCE CONSULTANTS LIMITED	icc.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	HKFEW TRAVEL SERVICES LIMITED	icec.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
-arts_recreation	tourism_tichk_travel_agent	ZHI AI HOLIDAY COMPANY LIMITED	icloud.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	HONG KONG INTERNATIONAL EXCHANGE CENTER CO., LIMITED	iechk.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	FAVORITE TRAVEL COMPANY LIMITED	ilovetravel.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	TRAVEL IN STYLE LIMITED	imperialtours.net	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
@@ -564,7 +556,6 @@ arts_recreation	tourism_tichk_travel_agent	MIX WELL TRAVEL LIMITED	mixwellnet.co
 arts_recreation	tourism_tichk_travel_agent	MK INTERNATIONAL TRAVEL SERVICE LIMITED	mktravel.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	BAO SHINN INTERNATIONAL EXPRESS LIMITED	morningstartravel.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	MANSION INTERNATIONAL TRAVEL SERVICES LIMITED	msholiday.co	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
-arts_recreation	tourism_tichk_travel_agent	TEAMNICE TRAVEL LIMITED	msn.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	MODERN TRAVEL LTD	mtlhk.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	MTR TRAVEL LIMITED	mtr.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	HONG KONG MEI YING INTERNATIONAL TRAVEL COMPANY LIMITED	mtrip.net	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
@@ -584,7 +575,6 @@ arts_recreation	tourism_tichk_travel_agent	B &amp; Y TOURS LIMITED	nate.com	Trav
 arts_recreation	tourism_tichk_travel_agent	NEW ASIAN TRAVEL &amp; MARINE SERVICES LIMITED	natshk.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	EVERGREEN TOURS LIMITED	naver.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	NEW BIK KONG INTERNATIONAL TRAVEL LIMITED	nbktravel.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
-arts_recreation	tourism_tichk_travel_agent	PACIFIC LINK TRAVEL &amp; TOURS LIMITED	netvigator.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	NEW CONCEPT TRAVEL LIMITED	new-concept.travel	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	WARWICK EXPRESS LIMITED	new-warwick.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	NEW CHINA LANE TRAVEL LTD	newchinalanehk.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
@@ -609,7 +599,6 @@ arts_recreation	tourism_tichk_travel_agent	ONWELL TRAVELS LTD	onwelltravels.com	
 arts_recreation	tourism_tichk_travel_agent	OPUS TRAVEL CO LTD	opustravel.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	ORIENT LUSH TRAVEL LTD	orientlush.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	OSPREY TRAVEL SERVICES LIMITED	ospreytravel.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
-arts_recreation	tourism_tichk_travel_agent	HONG KONG CHINESE PORT TOURISM COMPANY LIMITED	outlook.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	OWL TRAVEL SERVICES LIMITED	owltravel.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	OZBI WEALTH TRAVEL COMPANY LIMITED	ozbi.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	PACWOOD TRAVEL (INTERNATIONAL) LIMITED	pacwoodtravel.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
@@ -646,7 +635,6 @@ arts_recreation	tourism_tichk_travel_agent	PRINCE TRAVELLER COMPANY LIMITED	prin
 arts_recreation	tourism_tichk_travel_agent	PRO88	pro88.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	PROFIT TRAVEL AGENCY COMPANY LIMITED	profittravel.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	POTENTIAL TRAVEL SERVICE LIMITED	pttravel.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
-arts_recreation	tourism_tichk_travel_agent	HONG KONG HAPPY TOUR INTERNATIONAL TRAVEL SERVICE LIMITED	qq.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	LAMMA RAINBOW TOUR SERVICES LIMITED	rainbowtour.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	RAKUTEN TRAVEL SINGAPORE PTE. LTD.	rakuten.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	RANSPERITY TRAVEL LIMITED	ranstravel.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
@@ -911,14 +899,11 @@ arts_recreation	tourism_tichk_travel_agent	WORLDWIDE PACKAGE TRAVEL SERVICE LIMI
 arts_recreation	tourism_tichk_travel_agent	WORLD WIDE TRAVEL SERVICES CO	wwtravel.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	WHAMPOA CULTURE EXCHANGE LIMITED	wymts.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	XPERT DEVELOPMENT (HK) LIMITED	xpertholidays.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
-arts_recreation	tourism_tichk_travel_agent	CHINA (HONG KONG) EXCELLENT NATIONAL UNIVERSAL TRAVEL LIMITED	yahoo.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
-arts_recreation	tourism_tichk_travel_agent	HONG KONG HAO YANG INTERNATIONAL TRAVEL SERVICES LIMITED	yahoo.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	YEE TAI (HONG KONG) TRAVEL SERVICE LIMITED	yeetai-travel.com.hk	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	YES MASTER LIFESTYLE LIMITED	yesmastergo.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	YING HO TRAVEL SERVICES LTD	yinghotravel.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	YING MING TOURS LIMITED	yingminghk.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	YIQIFEI TRAVEL LIMITED	yiqifei.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
-arts_recreation	tourism_tichk_travel_agent	PURPLE TRAVEL AND TOURS CO., LIMITED	ymail.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	YMT TRAVEL LIMITED	ymt-travel.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	YORK VANTAGE TRAVEL LTD	york-v-travel.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
 arts_recreation	tourism_tichk_travel_agent	YOUNG&#039;S HOLIDAYS LIMITED	youngsholidays.com	Travel Industry Council of Hong Kong (TIC) - Member Travel Agents	tichk-travel-agents.tsv
