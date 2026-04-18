@@ -1,0 +1,29 @@
+industry	category	name	domain	source	dataset
+professional_services	law_firm	Baker McKenzie	bakermckenzie.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Linklaters	linklaters.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Clifford Chance	cliffordchance.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Allen & Overy (now A&O Shearman)	aoshearman.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Freshfields Bruckhaus Deringer	freshfields.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Herbert Smith Freehills	herbertsmithfreehills.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Mayer Brown	mayerbrown.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Hogan Lovells	hoganlovells.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Norton Rose Fulbright	nortonrosefulbright.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	King & Wood Mallesons	kwm.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	DLA Piper	dlapiper.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Ashurst	ashurst.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Simmons & Simmons	simmons-simmons.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Davis Polk & Wardwell	davispolk.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Sullivan & Cromwell	sullcrom.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Skadden, Arps, Slate, Meagher & Flom	skadden.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Latham & Watkins	lw.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Slaughter and May	slaughterandmay.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Deacons	deacons.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Minter Ellison	minterellison.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Tanner De Witt	tannerdewitt.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Stephenson Harwood	shlegal.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Reed Smith Richards Butler	reedsmith.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Withers	withersworldwide.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	ONC Lawyers	onc.hk	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Robertsons	robertsonshk.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Woo Kwan Lee & Lo	wkll.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv
+professional_services	law_firm	Vivien Chan & Co	vcclawservices.com	The Law Society of Hong Kong - Registered Foreign/Local Law Firms	law_society_firms.tsv

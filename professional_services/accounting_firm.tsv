@@ -1,0 +1,15 @@
+industry	category	name	domain	source	dataset
+professional_services	accounting_firm	Deloitte Touche Tohmatsu	deloitte.com	HKICPA - Registered CPA Firms	hkicpa_firms.tsv
+professional_services	accounting_firm	PricewaterhouseCoopers	pwchk.com	HKICPA - Registered CPA Firms	hkicpa_firms.tsv
+professional_services	accounting_firm	Ernst & Young	ey.com	HKICPA - Registered CPA Firms	hkicpa_firms.tsv
+professional_services	accounting_firm	KPMG	kpmg.com	HKICPA - Registered CPA Firms	hkicpa_firms.tsv
+professional_services	accounting_firm	BDO Limited	bdo.com.hk	HKICPA - Registered CPA Firms	hkicpa_firms.tsv
+professional_services	accounting_firm	Grant Thornton Hong Kong Limited	grantthornton.com.hk	HKICPA - Registered CPA Firms	hkicpa_firms.tsv
+professional_services	accounting_firm	RSM Hong Kong	rsm.global	HKICPA - Registered CPA Firms	hkicpa_firms.tsv
+professional_services	accounting_firm	Mazars CPA Limited	mazars.hk	HKICPA - Registered CPA Firms	hkicpa_firms.tsv
+professional_services	accounting_firm	Crowe (HK) CPA Limited	crowe.com	HKICPA - Registered CPA Firms	hkicpa_firms.tsv
+professional_services	accounting_firm	Baker Tilly Hong Kong Limited	bakertilly.com.hk	HKICPA - Registered CPA Firms	hkicpa_firms.tsv
+professional_services	accounting_firm	ShineWing (HK) CPA Limited	shinewing.hk	HKICPA - Registered CPA Firms	hkicpa_firms.tsv
+professional_services	accounting_firm	Moore Stephens CPA Limited	moore.hk	HKICPA - Registered CPA Firms	hkicpa_firms.tsv
+professional_services	accounting_firm	PKF Hong Kong Limited	pkf.com.hk	HKICPA - Registered CPA Firms	hkicpa_firms.tsv
+professional_services	accounting_firm	HLB Hodgson Impey Chung Limited	hlb.com.hk	HKICPA - Registered CPA Firms	hkicpa_firms.tsv

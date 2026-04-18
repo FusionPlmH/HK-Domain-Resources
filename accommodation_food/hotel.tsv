@@ -1,0 +1,51 @@
+industry	category	name	domain	source	dataset
+accommodation_food	hotel	The Peninsula Hong Kong	peninsula.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Mandarin Oriental, Hong Kong	mandarinoriental.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	The Ritz-Carlton, Hong Kong	ritzcarlton.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Four Seasons Hotel Hong Kong	fourseasons.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Island Shangri-La, Hong Kong	shangri-la.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Kowloon Shangri-La, Hong Kong	shangri-la.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Kerry Hotel, Hong Kong	shangri-la.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	The Langham, Hong Kong	langhamhotels.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Cordis, Hong Kong	cordishotels.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	W Hong Kong	marriott.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	JW Marriott Hotel Hong Kong	marriott.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Hong Kong Ocean Park Marriott Hotel	marriott.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	The St. Regis Hong Kong	marriott.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Renaissance Hong Kong Harbour View Hotel	marriott.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	InterContinental Hong Kong	ihg.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	InterContinental Grand Stanford Hong Kong	ihg.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Crowne Plaza Hong Kong Causeway Bay	ihg.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Hotel Indigo Hong Kong Island	ihg.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Hyatt Regency Hong Kong, Tsim Sha Tsui	hyatt.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Grand Hyatt Hong Kong	hyatt.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	The Murray, Hong Kong, a Niccolo Hotel	niccolohotels.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Rosewood Hong Kong	rosewoodhotels.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	The Upper House	upperhouse.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Hotel ICON	hotel-icon.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Harbour Grand Hong Kong	harbourgrand.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	The Royal Garden	rghk.com.hk	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Dorsett Wanchai, Hong Kong	dorsetthotels.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Novotel Hong Kong Nathan Road Kowloon	accor.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	ibis Hong Kong Central & Sheung Wan	accor.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Hotel Jen Hong Kong	shangri-la.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Eaton HK	eatonhk.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	The Mira Hong Kong	themirahotel.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Butterfly on Prat	butterflyhk.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	TUVE Hotel	tfrgroup.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	The Salisbury - YMCA of Hong Kong	ymcahk.org.hk	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	YHA Mei Ho House Youth Hostel	yha.org.hk	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Marco Polo Hongkong Hotel	marcopolohotels.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Gateway Hotel, Hong Kong	marcopolohotels.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Prince Hotel, Hong Kong	marcopolohotels.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Regal Airport Hotel	regalhotel.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Regal Hongkong Hotel	regalhotel.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Regal Kowloon Hotel	regalhotel.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Regal Oriental Hotel	regalhotel.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Regal Riverside Hotel	regalhotel.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Harbour Plaza North Point	harbour-plaza.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Harbour Plaza 8 Degrees	harbour-plaza.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Harbour Plaza Metropolis	harbour-plaza.com	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Royal Plaza Hotel	royalplaza.com.hk	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	Panda Hotel	pandahotel.com.hk	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv
+accommodation_food	hotel	B P International	bpih.com.hk	Hong Kong Tourism Board / Hotel Register	hktb_hotels.tsv

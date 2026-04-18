@@ -1,0 +1,22 @@
+industry	category	name	domain	source	dataset
+real_estate	property_developer	Sun Hung Kai Properties Limited	shkp.com	Manual compilation - Major HK property developers	property_dev.tsv
+real_estate	property_developer	CK Asset Holdings Limited	ckah.com	Manual compilation - Major HK property developers	property_dev.tsv
+real_estate	property_developer	Henderson Land Development Company Limited	hld.com	Manual compilation - Major HK property developers	property_dev.tsv
+real_estate	property_developer	New World Development Company Limited	nwd.com.hk	Manual compilation - Major HK property developers	property_dev.tsv
+real_estate	property_developer	Sino Land Company Limited	sino.com	Manual compilation - Major HK property developers	property_dev.tsv
+real_estate	property_developer	Wharf Real Estate Investment Company Limited	wharfreic.com	Manual compilation - Major HK property developers	property_dev.tsv
+real_estate	property_developer	Hang Lung Properties Limited	hanglung.com	Manual compilation - Major HK property developers	property_dev.tsv
+real_estate	property_developer	Swire Properties Limited	swireproperties.com	Manual compilation - Major HK property developers	property_dev.tsv
+real_estate	property_developer	Hysan Development Company Limited	hysan.com.hk	Manual compilation - Major HK property developers	property_dev.tsv
+real_estate	property_developer	Kerry Properties Limited	kerryprops.com	Manual compilation - Major HK property developers	property_dev.tsv
+real_estate	property_developer	Wheelock and Company Limited	wheelockcompany.com	Manual compilation - Major HK property developers	property_dev.tsv
+real_estate	property_developer	Great Eagle Holdings Limited	greateagle.com.hk	Manual compilation - Major HK property developers	property_dev.tsv
+real_estate	property_developer	MTR Corporation Limited	mtr.com.hk	Manual compilation - Major HK property developers	property_dev.tsv
+real_estate	property_developer	The Link Real Estate Investment Trust	linkreit.com	Manual compilation - Major HK property developers	property_dev.tsv
+real_estate	property_developer	Champion Real Estate Investment Trust	championreit.com	Manual compilation - Major HK property developers	property_dev.tsv
+real_estate	property_developer	Hongkong Land Holdings Limited	hkland.com	Manual compilation - Major HK property developers	property_dev.tsv
+real_estate	property_developer	Nan Fung Group	nanfung.com	Manual compilation - Major HK property developers	property_dev.tsv
+real_estate	property_developer	Chinachem Group	chinachemgroup.com	Manual compilation - Major HK property developers	property_dev.tsv
+real_estate	property_developer	K. Wah Group	kwah.com	Manual compilation - Major HK property developers	property_dev.tsv
+real_estate	property_developer	Emperor International Holdings Limited	emperorint.com	Manual compilation - Major HK property developers	property_dev.tsv
+real_estate	property_developer	Far East Consortium International Limited	fecil.com.hk	Manual compilation - Major HK property developers	property_dev.tsv

@@ -1,0 +1,12 @@
+industry	category	name	domain	source	dataset
+finance_insurance	deposit_taking_company	BCOM FINANCE (HONG KONG) LIMITED		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	deposit_taking_company	BPI WEALTH HONG KONG LIMITED	bpi.com.ph	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	deposit_taking_company	CHAU'S BROTHERS FINANCE COMPANY LIMITED		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	deposit_taking_company	CHONG HING FINANCE LIMITED		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	deposit_taking_company	CORPORATE FINANCE (D.T.C.) LIMITED	cfldtchk.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	deposit_taking_company	FUBON CREDIT (HONG KONG) LIMITED	boni.fuboncredit.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	deposit_taking_company	KEB HANA GLOBAL FINANCE LIMITED	global.1qbank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	deposit_taking_company	KEXIM ASIA LIMITED		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	deposit_taking_company	PUBLIC FINANCE LIMITED	pfl.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	deposit_taking_company	VIETNAM FINANCE COMPANY LIMITED		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	deposit_taking_company	WOORI GLOBAL MARKETS ASIA LIMITED		HKMA Register of Authorized Institutions	hkma_ais.xls

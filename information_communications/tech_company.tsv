@@ -1,0 +1,34 @@
+industry	category	name	domain	source	dataset
+information_communications	tech_ai	SenseTime Group Inc.	sensetime.com	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_logistics_tech	Lalamove (EasyVan Limited)	lalamove.com	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_fintech	WeLab Limited	welab.co	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_travel_tech	Klook Travel Technology Limited	klook.com	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_fintech	TNG FinTech Group	tngwallet.hk	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_insurtech	Bowtie Life Insurance Company Limited	bowtie.com.hk	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_insurtech	ZA International	za.group	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_edtech	Snapask (Snapsolve Limited)	snapask.com	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_logistics_tech	GoGoX (GoGoVan)	gogox.com	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_logistics_tech	AfterShip Limited	aftership.com	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_fintech	Airwallex	airwallex.com	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_blockchain	Animoca Brands	animocabrands.com	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_biotech	Prenetics Global Limited	prenetics.com	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_biotech	Insilico Medicine Hong Kong Limited	insilico.com	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_robotics	Eureka Robotics	eurekarobotics.com	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_robotics	Rice Robotics	ricerobotics.com	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_ai	Fano Labs Limited	fano.ai	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_ai	Clare.AI	clare.ai	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_ai	Standard AI	standard.ai	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_biotech	Phase Scientific International	phasescientific.com	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_fintech	Mox Bank Limited	mox.com	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_fintech	Livi Bank Limited	livibank.com	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_fintech	Fusion Bank Limited	fusionbank.com	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_fintech	Ant Bank (Hong Kong) Limited	antbank.hk	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_fintech	PAObank Limited	paob.com.hk	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_fintech	ZA Bank Limited	za.group	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_fintech	Ping An OneConnect Bank (Hong Kong) Limited	oneconnectbank.com.hk	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_fintech	WeLab Bank Limited	welab.bank	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_foodtech	DayDayCook	daydaycook.com	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_fintech	Qupital Limited	qupital.com	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_edtech	Kami.ai	kami.app	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_ecommerce	Casetify	casetify.com	HKSTP / Cyberport / Manual compilation	tech_companies.tsv
+information_communications	tech_insurtech	OneDegree Hong Kong Limited	onedegree.hk	HKSTP / Cyberport / Manual compilation	tech_companies.tsv

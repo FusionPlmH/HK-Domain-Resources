@@ -1,0 +1,47 @@
+industry	category	name	domain	source	dataset
+finance_insurance	sfc_licensed_corporation	Goldman Sachs (Asia) L.L.C.	gs.com	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Morgan Stanley Asia Limited	morganstanley.com	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	J.P. Morgan Securities (Asia Pacific) Limited	jpmorgan.com	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	UBS Securities Hong Kong Limited	ubs.com	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Credit Suisse Securities (Hong Kong) Limited	credit-suisse.com	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Deutsche Securities Asia Limited	db.com	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Merrill Lynch (Asia Pacific) Limited	ml.com	SFC Public Register - Licensed Corporations (Type 1,4,6)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	CLSA Limited	clsa.com	SFC Public Register - Licensed Corporations (Type 1,4,6,7,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Citigroup Global Markets Asia Limited	citigroup.com	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Barclays Capital Asia Limited	barclays.com	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	BNP Paribas Securities (Asia) Limited	bnpparibas.com	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Macquarie Capital Limited	macquarie.com	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Nomura International (Hong Kong) Limited	nomura.com	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	HSBC Securities Brokers (Asia) Limited	hsbc.com.hk	SFC Public Register - Licensed Corporations (Type 1)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Haitong International Securities Company Limited	htisec.com	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	China International Capital Corporation Hong Kong Securities Limited	cicc.com	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	CITIC Securities Brokerage (HK) Limited	citics.com.hk	SFC Public Register - Licensed Corporations (Type 1,4)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Guotai Junan Securities (Hong Kong) Limited	gtjas.com.hk	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	China Galaxy International Securities (Hong Kong) Co., Limited	chinastock.com.hk	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Huatai Financial Holdings (Hong Kong) Limited	htsc.com	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Interactive Brokers Hong Kong Limited	interactivebrokers.com.hk	SFC Public Register - Licensed Corporations (Type 1,2,5,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Phillip Securities (Hong Kong) Limited	poems.com.hk	SFC Public Register - Licensed Corporations (Type 1,4,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Futu Securities International (Hong Kong) Limited	futunn.com	SFC Public Register - Licensed Corporations (Type 1,4,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Tiger Brokers (Hong Kong) Global Limited	tigerbrokers.com.hk	SFC Public Register - Licensed Corporations (Type 1,4,5,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Bright Smart Securities International (H.K.) Limited	bsgroup.com.hk	SFC Public Register - Licensed Corporations (Type 1,4,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	China Merchants Securities (HK) Co., Limited	cmschina.com.hk	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Bocom International Securities Limited	bocomgroup.com	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Daiwa Capital Markets Hong Kong Limited	daiwacm.com	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	SG Securities (HK) Limited	sgcib.com	SFC Public Register - Licensed Corporations (Type 1,4,6)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	CCB International Securities Limited	ccbintl.com.hk	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	ICBC International Securities Limited	icbci.com.hk	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	BOC International Holdings Limited	bocigroup.com	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Valuable Capital Limited	valuablecapital.com	SFC Public Register - Licensed Corporations (Type 1,4)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Shiu Wing Steel Limited	shiuwing.com.hk	SFC Public Register - Licensed Corporations (Type 1)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	First Shanghai Securities Limited	firstshanghai.com.hk	SFC Public Register - Licensed Corporations (Type 1,4,6,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	CME Clearing Asia Limited	cmegroup.com	SFC Public Register - Licensed Corporations (Type 2)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	BlackRock Asset Management North Asia Limited	blackrock.com	SFC Public Register - Licensed Corporations (Type 9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Fidelity International Hong Kong Limited	fidelity.com.hk	SFC Public Register - Licensed Corporations (Type 1,4,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Schroders Investment Management (Hong Kong) Limited	schroders.com	SFC Public Register - Licensed Corporations (Type 1,4,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Value Partners Group Limited	valuepartners.com.hk	SFC Public Register - Licensed Corporations (Type 4,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Invesco Hong Kong Limited	invesco.com	SFC Public Register - Licensed Corporations (Type 1,4,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Franklin Templeton Investments (Asia) Limited	franklintempleton.com.hk	SFC Public Register - Licensed Corporations (Type 1,4,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Manulife Investment Management (Hong Kong) Limited	manulifeim.com.hk	SFC Public Register - Licensed Corporations (Type 1,4,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	PIMCO Asia Limited	pimco.com.hk	SFC Public Register - Licensed Corporations (Type 1,4,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Aberdeen Standard Investments (Hong Kong) Limited	abrdn.com	SFC Public Register - Licensed Corporations (Type 1,4,9)	sfc_licensed.tsv
+finance_insurance	sfc_licensed_corporation	Vanguard Investments Hong Kong Limited	vanguard.com.hk	SFC Public Register - Licensed Corporations (Type 1,9)	sfc_licensed.tsv

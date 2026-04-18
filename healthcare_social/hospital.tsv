@@ -1,0 +1,45 @@
+industry	category	name	domain	source	dataset
+healthcare_social	public_hospital	Queen Mary Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Queen Elizabeth Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Prince of Wales Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Princess Margaret Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Pamela Youde Nethersole Eastern Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Tuen Mun Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	United Christian Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Kwong Wah Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Yan Chai Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	North District Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Caritas Medical Centre	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Ruttonjee Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Pok Oi Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Alice Ho Miu Ling Nethersole Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Tseung Kwan O Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	North Lantau Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Tin Shui Wai Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Grantham Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Kowloon Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Tung Wah Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Tung Wah Eastern Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Tung Wah Group of Hospitals Wong Tai Sin Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Haven of Hope Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Shatin Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Tai Po Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Cheshire Home, Shatin	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	MacLehose Medical Rehabilitation Centre	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Bradbury Hospice	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Castle Peak Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Kwai Chung Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	public_hospital	Siu Lam Hospital	ha.org.hk	Hospital Authority	ha_hospitals.tsv
+healthcare_social	private_hospital	Hong Kong Sanatorium & Hospital	hksh.com	Department of Health - Private Hospital Register	ha_hospitals.tsv
+healthcare_social	private_hospital	Matilda International Hospital	matilda.org	Department of Health - Private Hospital Register	ha_hospitals.tsv
+healthcare_social	private_hospital	Hong Kong Adventist Hospital	hkah.org.hk	Department of Health - Private Hospital Register	ha_hospitals.tsv
+healthcare_social	private_hospital	St. Paul's Hospital	stpaul.org.hk	Department of Health - Private Hospital Register	ha_hospitals.tsv
+healthcare_social	private_hospital	Canossa Hospital (Caritas)	canossahospital.org.hk	Department of Health - Private Hospital Register	ha_hospitals.tsv
+healthcare_social	private_hospital	St. Teresa's Hospital	sth.org.hk	Department of Health - Private Hospital Register	ha_hospitals.tsv
+healthcare_social	private_hospital	Hong Kong Baptist Hospital	hkbh.org.hk	Department of Health - Private Hospital Register	ha_hospitals.tsv
+healthcare_social	private_hospital	Evangel Hospital	evangel.org.hk	Department of Health - Private Hospital Register	ha_hospitals.tsv
+healthcare_social	private_hospital	Gleneagles Hong Kong Hospital	gleneagles.hk	Department of Health - Private Hospital Register	ha_hospitals.tsv
+healthcare_social	private_hospital	CUHK Medical Centre	cuhkmc.hk	Department of Health - Private Hospital Register	ha_hospitals.tsv
+healthcare_social	private_hospital	Union Hospital	union.org	Department of Health - Private Hospital Register	ha_hospitals.tsv
+healthcare_social	private_hospital	Precious Blood Hospital (Caritas)	pbh.hk	Department of Health - Private Hospital Register	ha_hospitals.tsv
+healthcare_social	private_hospital	Tsuen Wan Adventist Hospital	twah.org.hk	Department of Health - Private Hospital Register	ha_hospitals.tsv

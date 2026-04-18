@@ -1,0 +1,29 @@
+industry	category	name	domain	source	dataset
+information_communications	telecom_unified_carrier_licence	Hong Kong Telecommunications (HKT) Limited	hkt.com	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_unified_carrier_licence	Hutchison Telephone Company Limited	three.com.hk	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_unified_carrier_licence	SmarTone Communications Limited	smartone.com	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_unified_carrier_licence	China Mobile Hong Kong Company Limited	hk.chinamobile.com	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_unified_carrier_licence	PCCW-HKT Telephone Limited	pccw.com	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_unified_carrier_licence	Wharf T&T Limited	wharftt.com	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_unified_carrier_licence	HKBN Limited	hkbn.net	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_unified_carrier_licence	HGC Global Communications Limited	hgc.com.hk	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_unified_carrier_licence	i-Cable Communications Limited	i-cable.com	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_unified_carrier_licence	21 Vianet Group Limited	21vianet.com	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_unified_carrier_licence	CSL Mobile Limited	hkcsl.com	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_unified_carrier_licence	Hutchison Telecommunications Hong Kong Holdings Limited	hthkh.com	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_unified_carrier_licence	China Unicom (Hong Kong) Operations Limited	chinaunicom.com.hk	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_isp	Hong Kong Internet Exchange Limited (HKIX)	hkix.net	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_isp	Asia Pacific On-line Limited	asiapac.com.hk	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_isp	Hong Kong Cable Television Limited	cabletv.com.hk	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_isp	NTT Com Asia Limited	ntt.com	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_isp	Equinix Hong Kong Limited	equinix.hk	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_isp	Amazon Web Services Hong Kong Limited	aws.amazon.com	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_isp	Google Cloud Hong Kong Limited	cloud.google.com	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_isp	Microsoft Azure Hong Kong	azure.microsoft.com	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_broadcasting	Television Broadcasts Limited (TVB)	tvb.com	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_broadcasting	ViuTV (HK Television Entertainment Company Limited)	viu.tv	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_broadcasting	Radio Television Hong Kong (RTHK)	rthk.hk	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_broadcasting	Metro Broadcast Corporation Limited	metroradio.com.hk	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_broadcasting	Hong Kong Commercial Broadcasting Company Limited	881903.com	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_broadcasting	Phoenix Satellite Television Company Limited	phtv.ifeng.com	OFCA Licensing Register	ofca_licensees.tsv
+information_communications	telecom_broadcasting	Fantastic Television Limited	fantv.hk	OFCA Licensing Register	ofca_licensees.tsv

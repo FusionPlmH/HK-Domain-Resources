@@ -1,0 +1,13 @@
+industry	category	name	domain	source	dataset
+agriculture_fishing	government_department	Agriculture, Fisheries and Conservation Department	afcd.gov.hk	AFCD / Manual compilation	agriculture.tsv
+agriculture_fishing	farm_garden	Kadoorie Farm and Botanic Garden	kfbg.org	AFCD / Manual compilation	agriculture.tsv
+agriculture_fishing	certification_body	Hong Kong Organic Resource Centre	hkorc.org	AFCD / Manual compilation	agriculture.tsv
+agriculture_fishing	marketing_organization	Vegetable Marketing Organization	vmo.org	AFCD / Manual compilation	agriculture.tsv
+agriculture_fishing	marketing_organization	Fish Marketing Organization	fmo.org.hk	AFCD / Manual compilation	agriculture.tsv
+agriculture_fishing	farm_garden	Mapopo Community Farm	mapopo.hk	AFCD / Manual compilation	agriculture.tsv
+agriculture_fishing	farm_garden	Zen Organic Farm	zenorganic.com.hk	AFCD / Manual compilation	agriculture.tsv
+agriculture_fishing	farm_garden	Lai Chi Wo Geopark Centre	laichiwo.hk	AFCD / Manual compilation	agriculture.tsv
+agriculture_fishing	aquaculture	Hong Kong Fish Net	hk-fish.net	AFCD / Manual compilation	agriculture.tsv
+agriculture_fishing	industry_association	Aberdeen Fishermen's Association	fishermenassociation.hk	AFCD / Manual compilation	agriculture.tsv
+agriculture_fishing	industry_association	Federation of Hong Kong Industries	fhki.org.hk	AFCD / Manual compilation	agriculture.tsv
+agriculture_fishing	industry_association	Hong Kong Agricultural Council	hkagri.com	AFCD / Manual compilation	agriculture.tsv

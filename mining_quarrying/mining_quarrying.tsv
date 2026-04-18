@@ -1,0 +1,6 @@
+industry	category	name	domain	source	dataset
+mining_quarrying	government_department	Civil Engineering and Development Department	cedd.gov.hk	CEDD / Manual compilation	mining_quarrying.tsv
+mining_quarrying	quarry_operator	Anderson Asphalt Limited	andersonasphalt.com	CEDD / Manual compilation	mining_quarrying.tsv
+mining_quarrying	quarry_operator	K. Wah Construction Materials Limited	kwcm.com	CEDD / Manual compilation	mining_quarrying.tsv
+mining_quarrying	quarry_operator	Alliance Construction Materials Limited	acml.com.hk	CEDD / Manual compilation	mining_quarrying.tsv
+mining_quarrying	government_department	Mines Division, CEDD	cedd.gov.hk	CEDD / Manual compilation	mining_quarrying.tsv

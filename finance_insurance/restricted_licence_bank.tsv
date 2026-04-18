@@ -1,0 +1,17 @@
+industry	category	name	domain	source	dataset
+finance_insurance	restricted_licence_bank	ABN AMRO CLEARING BANK N.V.		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	restricted_licence_bank	ACCESS BANK UK LIMITED (THE)	theaccessbankukltd.co.uk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	restricted_licence_bank	ALLIED BANKING CORPORATION (HONG KONG) LIMITED	abchkl.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	restricted_licence_bank	BANK OF CHINA INTERNATIONAL LIMITED	bocigroup.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	restricted_licence_bank	BANK OF SHANGHAI (HONG KONG) LIMITED		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	restricted_licence_bank	CITICORP INTERNATIONAL LIMITED		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	restricted_licence_bank	EUROCLEAR BANK		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	restricted_licence_bank	GOLDMAN SACHS ASIA BANK LIMITED	goldmansachs.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	restricted_licence_bank	HABIB BANK ZURICH (HONG KONG) LIMITED	hbzhongkong.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	restricted_licence_bank	J.P. MORGAN SECURITIES (ASIA PACIFIC) LIMITED	jpmorgan.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	restricted_licence_bank	KASIKORNBANK PUBLIC COMPANY LIMITED		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	restricted_licence_bank	KDB ASIA LIMITED		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	restricted_licence_bank	KOREA DEVELOPMENT BANK (THE)	kdb.co.kr	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	restricted_licence_bank	ORIX ASIA LIMITED		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	restricted_licence_bank	PT. BANK MANDIRI (PERSERO) TBK	bankmandirihk.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	restricted_licence_bank	SIAM COMMERCIAL BANK PUBLIC COMPANY LIMITED (THE)		HKMA Register of Authorized Institutions	hkma_ais.xls

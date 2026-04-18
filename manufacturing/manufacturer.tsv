@@ -1,0 +1,19 @@
+industry	category	name	domain	source	dataset
+manufacturing	trading_manufacturing	Li & Fung Limited	lifung.com	HKTDC / HKEX filings / Manual compilation	manufacturing.tsv
+manufacturing	electronics	Techtronic Industries Co. Ltd.	ttigroup.com	HKTDC / HKEX filings / Manual compilation	manufacturing.tsv
+manufacturing	electronics	Johnson Electric Holdings Limited	johnsonelectric.com	HKTDC / HKEX filings / Manual compilation	manufacturing.tsv
+manufacturing	food_beverage	Vitasoy International Holdings Limited	vitasoy.com	HKTDC / HKEX filings / Manual compilation	manufacturing.tsv
+manufacturing	food_beverage	Lee Kum Kee Company Limited	lkk.com	HKTDC / HKEX filings / Manual compilation	manufacturing.tsv
+manufacturing	food_beverage	Dairy Farm International Holdings Limited	dairyfarmgroup.com	HKTDC / HKEX filings / Manual compilation	manufacturing.tsv
+manufacturing	food_beverage	Four Seas Group	fourseas.com.hk	HKTDC / HKEX filings / Manual compilation	manufacturing.tsv
+manufacturing	food_beverage	Lam Soon (Hong Kong) Limited	lamsoon.com	HKTDC / HKEX filings / Manual compilation	manufacturing.tsv
+manufacturing	food_beverage	Hung Fook Tong Group Holdings Limited	hungfooktong.com	HKTDC / HKEX filings / Manual compilation	manufacturing.tsv
+manufacturing	garment	Giordano International Limited	giordano.com.hk	HKTDC / HKEX filings / Manual compilation	manufacturing.tsv
+manufacturing	garment	Esquel Group	esquel.com	HKTDC / HKEX filings / Manual compilation	manufacturing.tsv
+manufacturing	garment	TAL Apparel Limited	talapparel.com	HKTDC / HKEX filings / Manual compilation	manufacturing.tsv
+manufacturing	garment	Crystal International Group Limited	crystalgroup.com	HKTDC / HKEX filings / Manual compilation	manufacturing.tsv
+manufacturing	garment	Bossini International Holdings Limited	bossini.com	HKTDC / HKEX filings / Manual compilation	manufacturing.tsv
+manufacturing	semiconductor	ASM Pacific Technology Limited	asmpacific.com	HKTDC / HKEX filings / Manual compilation	manufacturing.tsv
+manufacturing	electronics	VTech Holdings Limited	vtech.com	HKTDC / HKEX filings / Manual compilation	manufacturing.tsv
+manufacturing	semiconductor	Solomon Systech (International) Limited	solomon-systech.com	HKTDC / HKEX filings / Manual compilation	manufacturing.tsv
+manufacturing	electronics	Wong's International Holdings Limited	wongih.com	HKTDC / HKEX filings / Manual compilation	manufacturing.tsv

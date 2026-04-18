@@ -1,0 +1,34 @@
+industry	category	name	domain	source	dataset
+scientific_technical	science_park	Hong Kong Science and Technology Parks Corporation	hkstp.org	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	tech_hub	Cyberport	cyberport.hk	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	statutory_body	Hong Kong Productivity Council	hkpc.org	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	r_and_d	Hong Kong Applied Science and Technology Research Institute	astri.org	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	r_and_d	Hong Kong Research Institute of Textiles and Apparel	hkrita.com	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	r_and_d	Logistics and Supply Chain MultiTech R&D Centre	lscm.hk	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	r_and_d	Nano and Advanced Materials Institute	nami.org.hk	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	r_and_d	Hong Kong R&D Centre for Information and Communications Technologies	hkirc.hk	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	r_and_d	Automotive Parts and Accessory Systems R&D Centre	apas.hk	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	testing_lab	Hong Kong Standards and Testing Centre	stc.group	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	testing_lab	SGS Hong Kong Limited	sgs.com	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	testing_lab	Bureau Veritas Hong Kong	bureauveritas.com.hk	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	testing_lab	Intertek Testing Services Hong Kong Ltd	intertek.com	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	testing_lab	TÜV Rheinland Hong Kong Ltd	tuv.com	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	testing_lab	UL International (HK) Ltd	ul.com	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	engineering_consultancy	AECOM Asia Company Limited	aecom.com	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	engineering_consultancy	WSP (Asia) Limited	wsp.com	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	engineering_consultancy	Arup	arup.com	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	engineering_consultancy	Mott MacDonald Hong Kong Limited	mottmac.com	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	engineering_consultancy	Jacobs Engineering Hong Kong Limited	jacobs.com	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	engineering_consultancy	Atkins China Limited	atkinsglobal.com	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	architecture	Leigh & Orange Limited	leighorange.com	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	architecture	Dennis Lau & Ng Chun Man Architects & Engineers	dlncm.com	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	architecture	Wong Tung & Partners Limited	wongtung.com	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	architecture	P&T Group	p-t-group.com	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	architecture	Ronald Lu & Partners	rlphk.com	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	professional_body	Hong Kong Institute of Surveyors	hkis.org.hk	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	surveyor	Jones Lang LaSalle	jll.com.hk	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	surveyor	CBRE Hong Kong	cbre.com.hk	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	surveyor	Cushman & Wakefield	cushmanwakefield.com	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	surveyor	Knight Frank Hong Kong	knightfrank.com.hk	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	surveyor	Savills Hong Kong	savills.com.hk	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv
+scientific_technical	surveyor	Colliers Hong Kong	colliers.com	InnoHK / HKSTP / HKPC / Manual compilation	scientific_technical.tsv

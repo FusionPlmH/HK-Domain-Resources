@@ -1,0 +1,16 @@
+industry	category	name	domain	source	dataset
+finance_insurance	insurance_broker	Marsh (Hong Kong) Limited	marsh.com	Insurance Authority - Register of Insurance Brokers	ia_broker.tsv
+finance_insurance	insurance_broker	Aon Hong Kong Limited	aon.com	Insurance Authority - Register of Insurance Brokers	ia_broker.tsv
+finance_insurance	insurance_broker	Willis Towers Watson Insurance Brokers (Hong Kong) Limited	wtwco.com	Insurance Authority - Register of Insurance Brokers	ia_broker.tsv
+finance_insurance	insurance_broker	JLT Asia Limited	jlt.com	Insurance Authority - Register of Insurance Brokers	ia_broker.tsv
+finance_insurance	insurance_broker	Howden Insurance Brokers (Hong Kong) Limited	howdengroup.com	Insurance Authority - Register of Insurance Brokers	ia_broker.tsv
+finance_insurance	insurance_broker	Lockton Companies (Hong Kong) Limited	lockton.com	Insurance Authority - Register of Insurance Brokers	ia_broker.tsv
+finance_insurance	insurance_broker	Gallagher (Hong Kong) Limited	ajg.com	Insurance Authority - Register of Insurance Brokers	ia_broker.tsv
+finance_insurance	insurance_broker	Kingsway Group Holdings Ltd	kingswaygroup.com	Insurance Authority - Register of Insurance Brokers	ia_broker.tsv
+finance_insurance	insurance_broker	Asia Insurance Company Limited	asiainsurance.com.hk	Insurance Authority - Register of Insurance Brokers	ia_broker.tsv
+finance_insurance	insurance_broker	Pacific Insurance Brokers Limited	pacificinsurance.com.hk	Insurance Authority - Register of Insurance Brokers	ia_broker.tsv
+finance_insurance	insurance_broker	Acclaim Insurance Brokers Limited	acclaiminsurance.com	Insurance Authority - Register of Insurance Brokers	ia_broker.tsv
+finance_insurance	insurance_broker	United Overseas Insurance Brokers Limited	uoib.com	Insurance Authority - Register of Insurance Brokers	ia_broker.tsv
+finance_insurance	insurance_broker	Sun Hung Kai Insurance Brokers Limited	shki.com.hk	Insurance Authority - Register of Insurance Brokers	ia_broker.tsv
+finance_insurance	insurance_broker	BOC Group Insurance Company Limited	bocgins.com	Insurance Authority - Register of Insurance Brokers	ia_broker.tsv
+finance_insurance	insurance_broker	RiskPoint (Hong Kong) Limited	riskpoint.com	Insurance Authority - Register of Insurance Brokers	ia_broker.tsv

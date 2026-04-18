@@ -1,0 +1,208 @@
+{
+  "version": "2026-Q2",
+  "last_updated": "2026-04-19",
+  "update_schedule": "quarterly",
+  "next_update": "2026-07-15",
+  "total_files": 76,
+  "total_data_rows": 31260,
+  "industries": [
+    {
+      "directory": "accommodation_food",
+      "label": "Accommodation & Food Services",
+      "files": [
+        {"file": "food_hkrma_member.tsv", "rows": 19},
+        {"file": "hotel.tsv", "rows": 50},
+        {"file": "restaurant_chain.tsv", "rows": 30}
+      ]
+    },
+    {
+      "directory": "administrative_support",
+      "label": "Administrative & Support Services",
+      "files": [
+        {"file": "recruitment_eaa_agency.tsv", "rows": 466}
+      ]
+    },
+    {
+      "directory": "arts_recreation",
+      "label": "Arts, Entertainment & Recreation",
+      "files": [
+        {"file": "tourism_tichk_travel_agent.tsv", "rows": 914}
+      ]
+    },
+    {
+      "directory": "education",
+      "label": "Education",
+      "files": [
+        {"file": "education_degree_awarding_nonugc.tsv", "rows": 25},
+        {"file": "education_ipass_associate_degree.tsv", "rows": 15},
+        {"file": "education_ipass_higher_diploma.tsv", "rows": 23},
+        {"file": "education_primary_aided.tsv", "rows": 476},
+        {"file": "education_primary_dss.tsv", "rows": 21},
+        {"file": "education_primary_government.tsv", "rows": 33},
+        {"file": "education_primary_private.tsv", "rows": 112},
+        {"file": "education_secondary_aided.tsv", "rows": 419},
+        {"file": "education_secondary_dss.tsv", "rows": 57},
+        {"file": "education_secondary_government.tsv", "rows": 30},
+        {"file": "education_secondary_private.tsv", "rows": 67},
+        {"file": "education_ugc_funded_university.tsv", "rows": 7}
+      ]
+    },
+    {
+      "directory": "finance_insurance",
+      "label": "Finance & Insurance",
+      "files": [
+        {"file": "banking_payments.tsv", "rows": 43},
+        {"file": "capital_markets.tsv", "rows": 3},
+        {"file": "deposit_taking_company.tsv", "rows": 11},
+        {"file": "industry_association.tsv", "rows": 2},
+        {"file": "insurance.tsv", "rows": 119},
+        {"file": "insurance_broker.tsv", "rows": 15},
+        {"file": "licensed_bank.tsv", "rows": 148},
+        {"file": "market_infrastructure.tsv", "rows": 1},
+        {"file": "money_service_operator.tsv", "rows": 11},
+        {"file": "pension_trustees.tsv", "rows": 12},
+        {"file": "restricted_licence_bank.tsv", "rows": 16},
+        {"file": "sfc_licensed_corporation.tsv", "rows": 46},
+        {"file": "stored_value_facility.tsv", "rows": 5},
+        {"file": "tcsp_licensee.tsv", "rows": 7322},
+        {"file": "licensed_money_lender.tsv", "rows": 1949},
+        {"file": "virtual_asset_provider.tsv", "rows": 10}
+      ]
+    },
+    {
+      "directory": "healthcare_social",
+      "label": "Healthcare & Social Work",
+      "files": [
+        {"file": "healthcare.tsv", "rows": 4},
+        {"file": "hospital.tsv", "rows": 44},
+        {"file": "ngo_hkcss_ctgoodjobs.tsv", "rows": 511}
+      ]
+    },
+    {
+      "directory": "listed_companies",
+      "label": "Listed Companies",
+      "files": [
+        {"file": "capital_markets.tsv", "rows": 2575}
+      ]
+    },
+    {
+      "directory": "public_administration",
+      "label": "Public Administration",
+      "files": [
+        {"file": "banking_payments.tsv", "rows": 1},
+        {"file": "capital_markets.tsv", "rows": 1},
+        {"file": "environment_govhk.tsv", "rows": 6},
+        {"file": "government.tsv", "rows": 159},
+        {"file": "healthcare.tsv", "rows": 5},
+        {"file": "housing_govhk.tsv", "rows": 15},
+        {"file": "industry_association.tsv", "rows": 1},
+        {"file": "innovation_govhk.tsv", "rows": 7},
+        {"file": "insurance.tsv", "rows": 1},
+        {"file": "labour_govhk.tsv", "rows": 7},
+        {"file": "law_govhk.tsv", "rows": 6},
+        {"file": "pension_trustees.tsv", "rows": 1},
+        {"file": "public-safety_govhk.tsv", "rows": 7},
+        {"file": "regulators_statutory.tsv", "rows": 7},
+        {"file": "social-welfare_govhk.tsv", "rows": 6},
+        {"file": "tourism_govhk.tsv", "rows": 7},
+        {"file": "tourism_tichk_travel_agent.tsv", "rows": 1},
+        {"file": "trade_govhk.tsv", "rows": 15},
+        {"file": "transport_govhk.tsv", "rows": 19}
+      ]
+    },
+    {
+      "directory": "transportation_storage",
+      "label": "Transportation & Storage",
+      "files": [
+        {"file": "logistics_haffa_member.tsv", "rows": 92}
+      ]
+    },
+    {
+      "directory": "construction",
+      "label": "Construction",
+      "files": [
+        {"file": "registered_contractor.tsv", "rows": 16},
+        {"file": "registered_electrical_contractor.tsv", "rows": 14607}
+      ]
+    },
+    {
+      "directory": "real_estate",
+      "label": "Real Estate",
+      "files": [
+        {"file": "property_developer.tsv", "rows": 21}
+      ]
+    },
+    {
+      "directory": "information_communications",
+      "label": "Information & Communications",
+      "files": [
+        {"file": "telecom_licensee.tsv", "rows": 28},
+        {"file": "tech_company.tsv", "rows": 33}
+      ]
+    },
+    {
+      "directory": "professional_services",
+      "label": "Professional Services",
+      "files": [
+        {"file": "accounting_firm.tsv", "rows": 14},
+        {"file": "law_firm.tsv", "rows": 28},
+        {"file": "management_consulting.tsv", "rows": 8}
+      ]
+    },
+    {
+      "directory": "manufacturing",
+      "label": "Manufacturing",
+      "files": [
+        {"file": "manufacturer.tsv", "rows": 18}
+      ]
+    },
+    {
+      "directory": "utilities",
+      "label": "Utilities",
+      "files": [
+        {"file": "electricity.tsv", "rows": 2},
+        {"file": "gas.tsv", "rows": 2},
+        {"file": "water.tsv", "rows": 1},
+        {"file": "waste_management.tsv", "rows": 3}
+      ]
+    },
+    {
+      "directory": "wholesale_retail",
+      "label": "Wholesale & Retail Trade",
+      "files": [
+        {"file": "other_hkrma_member.tsv", "rows": 22},
+        {"file": "retail_hkrma_member.tsv", "rows": 428},
+        {"file": "telecom_hkrma_member.tsv", "rows": 4}
+      ]
+    },
+    {
+      "directory": "agriculture_fishing",
+      "label": "Agriculture & Fishing",
+      "files": [
+        {"file": "agriculture_fishing.tsv", "rows": 12}
+      ]
+    },
+    {
+      "directory": "mining_quarrying",
+      "label": "Mining & Quarrying",
+      "files": [
+        {"file": "mining_quarrying.tsv", "rows": 5}
+      ]
+    },
+    {
+      "directory": "scientific_technical",
+      "label": "Scientific & Technical Services",
+      "files": [
+        {"file": "scientific_technical.tsv", "rows": 33}
+      ]
+    }
+  ],
+  "planned_files": [
+    "healthcare_social/orphf_private_hospital.tsv",
+    "healthcare_social/orphf_nursing_home.tsv",
+    "healthcare_social/orphf_day_procedure_centre.tsv",
+    "healthcare_social/orphf_small_practice_clinic.tsv",
+    "healthcare_social/orphf_clinic.tsv"
+  ],
+  "planned_industries": []
+}

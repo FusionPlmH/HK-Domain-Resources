@@ -8,8 +8,10 @@ A curated collection of Hong Kong domain resources organized by industry sectors
 
 ## 📊 Statistics | 統計資料
 
-- **Total Industries Covered | 涵蓋行業:** 11
-- **Last Updated | 最後更新:** 2026-01-15
+- **Total Industries Covered | 涵蓋行業:** 19
+- **Last Updated | 最後更新:** 2026-04-19
+- **Update Schedule | 更新頻率:** Quarterly (Jan, Apr, Jul, Oct) | 每季度更新（一月、四月、七月、十月）
+- **Next Scheduled Update | 下次更新:** 2026-07-15
 
 ---
 
@@ -20,11 +22,18 @@ A curated collection of Hong Kong domain resources organized by industry sectors
 
 - **Food & Restaurants | 餐飲** - `food_hkrma_member.tsv`  
   HKRMA member restaurants and food service providers | 香港零售管理協會會員餐飲及食品服務提供者
+- **Hotels | 酒店** - `hotel.tsv`  
+  Major licensed hotels and guesthouses | 主要持牌酒店及賓館
+- **Restaurant Chains | 連鎖餐廳** - `restaurant_chain.tsv`  
+  Major restaurant chains and F&B operators | 主要連鎖餐廳及餐飲營運商
 
 ---
 
 ### 🧑‍💼 Administrative & Support Services | 行政及支援服務業
 **Directory:** `administrative_support/`
+
+- **EAA Licensed Estate Agents | 持牌地產代理** - `recruitment_eaa_agency.tsv`  
+  EAA licensed estate agents and agencies | 地產代理監管局持牌代理
 
 Administrative and business support services | 行政及商業支援服務
 
@@ -50,7 +59,9 @@ Administrative and business support services | 行政及商業支援服務
 - **Secondary Schools - Private | 中學 - 私立** - `education_secondary_private.tsv`
 - **Secondary Schools - Government | 中學 - 官立** - `education_secondary_government.tsv`
 - **Higher Education - iPass | 高等教育 - iPass** - `education_ipass_higher_diploma.tsv`
+- **Higher Education - iPass Associate Degree | 高等教育 - iPass 副學士** - `education_ipass_associate_degree.tsv`
 - **Degree Awarding (Non-UGC) | 學位頒授(非教資會)** - `education_degree_awarding_nonugc.tsv`
+- **UGC-Funded Universities | 教資會資助大學** - `education_ugc_funded_university.tsv`
 
 ---
 
@@ -58,13 +69,23 @@ Administrative and business support services | 行政及商業支援服務
 **Directory:** `finance_insurance/`
 
 - **Banking & Payments | 銀行及支付** - `banking_payments.tsv`
+- **Licensed Banks (HKMA) | 持牌銀行** - `licensed_bank.tsv`
+- **Restricted Licence Banks | 有限制牌照銀行** - `restricted_licence_bank.tsv`
+- **Deposit-taking Companies | 接受存款公司** - `deposit_taking_company.tsv`
 - **Insurance | 保險** - `insurance.tsv`
+- **Insurance Brokers | 保險經紀** - `insurance_broker.tsv`
 - **Pension Trustees | 退休金信託** - `pension_trustees.tsv`
 - **Money Service Operators | 貨幣服務經營者** - `money_service_operator.tsv`
+- **SFC Licensed Corporations | 證監會持牌法團** - `sfc_licensed_corporation.tsv`
+- **Virtual Asset Service Providers | 虛擬資產服務提供者** - `virtual_asset_provider.tsv`
 - **Capital Markets | 資本市場** - `capital_markets.tsv`
 - **Market Infrastructure | 市場基建** - `market_infrastructure.tsv`
 - **Industry Association | 行業協會** - `industry_association.tsv`
 - **Stored Value Facilities | 儲值支付工具** - `stored_value_facility.tsv`
+- **TCSP Licensees | 信託及公司服務持牌人** - `tcsp_licensee.tsv`  
+  Companies Registry TCSP Register | 公司註冊處信託及公司服務持牌人名冊
+- **Licensed Money Lenders | 持牌放債人** - `licensed_money_lender.tsv`  
+  Companies Registry Money Lenders Register | 公司註冊處持牌放債人名冊
 
 ---
 
@@ -72,11 +93,13 @@ Administrative and business support services | 行政及商業支援服務
 **Directory:** `healthcare_social/`
 
 - **Healthcare | 醫療** - `healthcare.tsv`
-- **Private Hospitals | 私家醫院** - `orphf_private_hospital.tsv`
-- **Nursing Homes | 護養院** - `orphf_nursing_home.tsv`
-- **Day Procedure Centres | 日間醫療中心** - `orphf_day_procedure_centre.tsv`
-- **Small Practice Clinics | 小型診所** - `orphf_small_practice_clinic.tsv`
-- **Clinics | 診所** - `orphf_clinic.tsv`
+- **Hospitals | 醫院** - `hospital.tsv`  
+  Public (HA) and private hospitals | 公立（醫管局）及私家醫院
+- **Private Hospitals | 私家醫院** - `orphf_private_hospital.tsv` *(planned)*
+- **Nursing Homes | 護養院** - `orphf_nursing_home.tsv` *(planned)*
+- **Day Procedure Centres | 日間醫療中心** - `orphf_day_procedure_centre.tsv` *(planned)*
+- **Small Practice Clinics | 小型診所** - `orphf_small_practice_clinic.tsv` *(planned)*
+- **Clinics | 診所** - `orphf_clinic.tsv` *(planned)*
 - **NGOs | 非政府組織** - `ngo_hkcss_ctgoodjobs.tsv`
 
 ---
@@ -93,7 +116,6 @@ Administrative and business support services | 行政及商業支援服務
 **Directory:** `public_administration/`
 
 - **Government | 政府** - `government.tsv`
-- **Insurance Regulation | 保險監管** - `insurance.tsv`
 - **Law & Justice | 法律及司法** - `law_govhk.tsv`
 - **Trade | 貿易** - `trade_govhk.tsv`
 - **Labour | 勞工** - `labour_govhk.tsv`
@@ -102,6 +124,16 @@ Administrative and business support services | 行政及商業支援服務
 - **Housing | 房屋** - `housing_govhk.tsv`
 - **Transport | 運輸** - `transport_govhk.tsv`
 - **Regulators & Statutory Bodies | 監管機構及法定機構** - `regulators_statutory.tsv`
+- **Banking & Payments Regulation | 銀行及支付監管** - `banking_payments.tsv`
+- **Capital Markets Regulation | 資本市場監管** - `capital_markets.tsv`
+- **Insurance Regulation | 保險監管** - `insurance.tsv`
+- **Pension Regulation | 退休金監管** - `pension_trustees.tsv`
+- **Industry Association | 行業協會** - `industry_association.tsv`
+- **Healthcare | 醫療** - `healthcare.tsv`
+- **Environment | 環境** - `environment_govhk.tsv`
+- **Public Safety | 公共安全** - `public-safety_govhk.tsv`
+- **Social Welfare | 社會福利** - `social-welfare_govhk.tsv`
+- **Tourism (Travel Agents) | 旅遊（旅行社）** - `tourism_tichk_travel_agent.tsv`
 
 ---
 
@@ -110,6 +142,88 @@ Administrative and business support services | 行政及商業支援服務
 
 - **Logistics | 物流** - `logistics_haffa_member.tsv`  
   HAFFA member freight forwarders | 貨運物流業協會會員
+
+---
+
+### 🏗️ Construction | 建造業
+**Directory:** `construction/`
+
+- **Registered Contractors | 註冊承建商** - `registered_contractor.tsv`  
+  Major construction and engineering contractors | 主要建築及工程承建商
+- **Registered Electrical Contractors | 註冊電業承辦商** - `registered_electrical_contractor.tsv`  
+  EMSD registered electrical contractors | 機電工程署註冊電業承辦商
+
+---
+
+### 🏠 Real Estate | 地產業
+**Directory:** `real_estate/`
+
+- **Property Developers | 地產發展商** - `property_developer.tsv`  
+  Major HK property developers and REITs | 主要香港地產發展商及房託
+
+---
+
+### 📡 Information & Communications | 資訊及通訊業
+**Directory:** `information_communications/`
+
+- **Telecom Licensees | 電訊持牌人** - `telecom_licensee.tsv`  
+  OFCA licensed telecom operators, ISPs, and broadcasters | 通訊辦持牌電訊營辦商、互聯網服務供應商及廣播機構
+- **Tech Companies | 科技公司** - `tech_company.tsv`  
+  HKSTP and Cyberport tech companies | 科學園及數碼港科技公司
+
+---
+
+### 👔 Professional Services | 專業服務業
+**Directory:** `professional_services/`
+
+- **Accounting Firms | 會計師事務所** - `accounting_firm.tsv`  
+  HKICPA registered CPA firms | 香港會計師公會註冊會計師事務所
+- **Law Firms | 律師事務所** - `law_firm.tsv`  
+  Law Society of HK registered firms | 香港律師會註冊律師事務所
+- **Management Consulting | 管理顧問** - `management_consulting.tsv`  
+  Major management consulting firms | 主要管理顧問公司
+
+---
+
+### 🏭 Manufacturing | 製造業
+**Directory:** `manufacturing/`
+
+- **Manufacturers | 製造商** - `manufacturer.tsv`  
+  Major HK manufacturers and trading companies | 主要香港製造商及貿易公司
+
+---
+
+### ⚡ Utilities | 公用事業
+**Directory:** `utilities/`
+
+- **Electricity | 電力** - `electricity.tsv`
+- **Gas | 燃氣** - `gas.tsv`
+- **Water | 供水** - `water.tsv`
+- **Waste Management | 廢物管理** - `waste_management.tsv`
+
+---
+
+### 🌾 Agriculture & Fishing | 農業及漁業
+**Directory:** `agriculture_fishing/`
+
+- **Agriculture & Fishing | 農業及漁業** - `agriculture_fishing.tsv`  
+  AFCD, farms, aquaculture, and industry bodies | 漁護署、農場、水產養殖及行業組織
+
+---
+
+### ⛏️ Mining & Quarrying | 採礦及採石業
+**Directory:** `mining_quarrying/`
+
+- **Mining & Quarrying | 採礦及採石** - `mining_quarrying.tsv`  
+  CEDD and quarry operators | 土木工程拓展署及採石場營運商
+
+---
+
+### 🔬 Scientific & Technical Services | 科學及技術服務業
+**Directory:** `scientific_technical/`
+
+- **Scientific & Technical | 科學及技術** - `scientific_technical.tsv`  
+  Science parks, R&D centres, testing labs, engineering & architecture firms | 科學園、研發中心、測試實驗室、工程及建築事務所
 
 ---
 
@@ -260,4 +374,4 @@ This data is provided for research and informational purposes. Please ensure app
 ---
 
 **Maintained by | 維護者:** [@FusionPlmH](https://github.com/FusionPlmH)  
-**Last Updated | 最後更新:** 2026-01-15
+**Last Updated | 最後更新:** 2026-04-18

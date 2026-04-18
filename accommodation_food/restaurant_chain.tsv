@@ -1,0 +1,31 @@
+industry	category	name	domain	source	dataset
+accommodation_food	restaurant_chain	Maxim's Caterers Limited	maximscaterers.com.hk	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Café de Coral Holdings Limited	cafedecoral.com	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Fairwood Holdings Limited	fairwood.com.hk	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Tsui Wah Holdings Limited	tsuiwah.com	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Tam Jai International Co. Limited	tamjai.com	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Genki Sushi Hong Kong	genkisushi.com.hk	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	McDonald's Hong Kong	mcdonalds.com.hk	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	KFC Hong Kong	kfc.com.hk	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Pizza Hut Hong Kong	pizzahut.com.hk	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Starbucks Hong Kong	starbucks.com.hk	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Pacific Coffee Company	pacificcoffee.com	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	LH Group (Café Deco Group)	cafedecogroup.com	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Swire Restaurants	swirerestaurants.com	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Dairy Farm (Mannings, 7-Eleven)	dairyfarmgroup.com	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	A.S. Watson Group (Watsons, PARKnSHOP)	aswatson.com	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Yung Kee Restaurant	yungkee.com.hk	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Tim Ho Wan	timhowan.com	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Din Tai Fung Hong Kong	dintaifung.com.hk	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Lei Garden Restaurant	leigarden.hk	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Fook Lam Moon Restaurant	fooklammoon-grp.com	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Jumbo Kingdom (Floating Restaurant)	jumbokingdom.com	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Tang Chao (Mandarin Oriental)	mandarinoriental.com	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Jardine Restaurant Group	jardinerg.com	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Hung's Delicacies	hungsfood.com	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Yoshinoya Hong Kong	yoshinoya.com.hk	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	MOS Burger Hong Kong	mos.com.hk	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Subway Hong Kong	subway.com.hk	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Nando's Hong Kong	nandos.com.hk	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Greyhound Café Hong Kong	greyhoundcafe.com.hk	Manual compilation - Major HK F&B operators	restaurant_chains.tsv
+accommodation_food	restaurant_chain	Black Sheep Restaurants	blacksheeprestaurants.com	Manual compilation - Major HK F&B operators	restaurant_chains.tsv

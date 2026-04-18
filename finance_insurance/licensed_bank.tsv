@@ -1,0 +1,149 @@
+industry	category	name	domain	source	dataset
+finance_insurance	licensed_bank	AGRICULTURAL BANK OF CHINA LIMITED	hk.abchina.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	AIRSTAR BANK LIMITED	airstarbank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	ANT BANK (HONG KONG) LIMITED	antbank.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED	anz.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BANCO BILBAO VIZCAYA ARGENTARIA S.A.	bbva.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BANCO SANTANDER, S.A.		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BANGKOK BANK PUBLIC COMPANY LIMITED	bangkokbank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BANK J. SAFRA SARASIN AG	Jsafrasarasin.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BANK JULIUS BAER & CO. LTD.	juliusbaer.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BANK OF AMERICA, NATIONAL ASSOCIATION	bankofamerica.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BANK OF CHINA (HONG KONG) LIMITED		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BANK OF CHINA LIMITED	boc.cn	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BANK OF COMMUNICATIONS (HONG KONG) LIMITED	hk.bankcomm.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BANK OF COMMUNICATIONS CO., LTD.	bankcomm.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BANK OF DONGGUAN CO., LTD.	hk.dongguanbank.cn	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BANK OF DONGGUAN INTERNATIONAL LIMITED	bodintl.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BANK OF EAST ASIA, LIMITED (THE)	hkbea.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BANK OF INDIA	bankofindia.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BANK OF MONTREAL	bmo.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BANK OF NEW YORK MELLON (THE)	bnymellon.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BANK OF NOVA SCOTIA (THE)	scotiabank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BANK OF SINGAPORE LIMITED	bankofsingapore.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BANK OF TAIWAN	bot.com.tw	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BANK SINOPAC	bank.sinopac.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BANQUE PICTET & CIE SA	group.pictet	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BARCLAYS BANK PLC	barclays.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BDO UNIBANK, INC.	bdo.com.ph	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	BNP PARIBAS	bnpparibas.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CA INDOSUEZ (SWITZERLAND) SA	ca-indosuez.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CANADIAN IMPERIAL BANK OF COMMERCE		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CATHAY BANK	cathaybank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CATHAY UNITED BANK COMPANY, LIMITED	cathaybk.com.tw	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CHANG HWA COMMERCIAL BANK, LTD.	chbebank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CHIBA BANK, LTD. (THE)		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CHINA BOHAI BANK CO., LTD.	cbhb.com.cn	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CHINA CITIC BANK CORPORATION LIMITED	citicbank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CHINA CITIC BANK INTERNATIONAL LIMITED	cncbinternational.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CHINA CONSTRUCTION BANK (ASIA) CORPORATION LIMITED	asia.ccb.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CHINA CONSTRUCTION BANK CORPORATION	hk.ccb.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CHINA DEVELOPMENT BANK		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CHINA EVERBRIGHT BANK CO., LTD.	hkg.cebbank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CHINA GUANGFA BANK CO., LTD.	cgbchina.hk.cn	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CHINA MERCHANTS BANK CO., LTD.	hk.cmbchina.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CHINA MINSHENG BANKING CORP., LTD.		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CHINA ZHESHANG BANK CO., LTD.	hk.czbank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CHIYU BANKING CORPORATION LIMITED	chiyubank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CHONG HING BANK LIMITED	chbank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CHUGOKU BANK, LTD. (THE)		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CIMB BANK BERHAD		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CITIBANK (HONG KONG) LIMITED		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CITIBANK, N.A.	citibank.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CMB WING LUNG BANK LIMITED	cmbwinglungbank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	COMMONWEALTH BANK OF AUSTRALIA	commbank.com.au	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	COÖPERATIEVE RABOBANK U.A.	rabobank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK	ca-cib.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CREDIT INDUSTRIEL ET COMMERCIAL	www.cic.fr	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	CTBC BANK CO., LTD.	ctbcbank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	DAH SING BANK, LIMITED	dahsing.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	DBS BANK (HONG KONG) LIMITED	dbs.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	DBS BANK LTD.		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	DEUTSCHE BANK AKTIENGESELLSCHAFT	db.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK, FRANKFURT AM MAIN	dzbank.de	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	E.SUN COMMERCIAL BANK, LTD.	esunbank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	EAST WEST BANK	eastwestbank.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	EFG BANK AG	efgbank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	ERSTE GROUP BANK AG	erstegroup.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	FAR EASTERN INTERNATIONAL BANK	feib.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	FIRST ABU DHABI BANK PJSC		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	FIRST COMMERCIAL BANK, LTD.	firstbank.com.tw	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	FUBON BANK (HONG KONG) LIMITED	fubonbank.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	FUSION BANK LIMITED	fusionbank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	HANG SENG BANK, LIMITED		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	HDFC BANK LIMITED	hdfcbankhongkong.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	HONG LEONG BANK BERHAD	hlb.com.my	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED (THE)	hsbc.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	HSBC BANK PLC		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	HUA NAN COMMERCIAL BANK, LTD.		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	HUA XIA BANK CO., LIMITED		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	ICICI BANK LIMITED	icicibank.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	INDIAN OVERSEAS BANK		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ASIA) LIMITED	icbcasia.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	INDUSTRIAL BANK CO., LTD.	cibhk.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	INDUSTRIAL BANK OF KOREA		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	ING BANK N.V.	ing.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	INTESA SANPAOLO SPA	group.intesasanpaolo.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	JPMORGAN CHASE BANK, NATIONAL ASSOCIATION	jpmorgan.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	KBC BANK N.V.		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	KEB HANA BANK	global.1qbank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	KGI BANK CO., LTD.	kgibank.com.tw	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	KOOKMIN BANK		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	LAND BANK OF TAIWAN CO., LTD.	landbank.com.tw	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	LGT BANK AG	lgt.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	LIVI BANK LIMITED	livibank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	MALAYAN BANKING BERHAD	maybank.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	MASHREQ BANK - PUBLIC SHAREHOLDING COMPANY	mashreqbank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.	megabank.com.tw	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	MELLI BANK PLC	mellibank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	MITSUBISHI UFJ TRUST AND BANKING CORPORATION		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	MIZUHO BANK, LTD.		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	MORGAN STANLEY BANK ASIA LIMITED	morganstanley.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	MOX BANK LIMITED	mox.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	MUFG BANK, LTD.		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	NANYANG COMMERCIAL BANK, LIMITED	ncb.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	NATIONAL BANK OF PAKISTAN		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	NATIXIS	apac.cib.natixis.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	NONGHYUP BANK		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	O-BANK CO., LTD.	o-bank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	OCBC BANK (HONG KONG) LIMITED	ocbc.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	OVERSEA-CHINESE BANKING CORPORATION LIMITED		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	PHILIPPINE NATIONAL BANK	pnb.com.ph	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	PING AN BANK CO., LTD.		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	PING AN DIGITAL BANK (INTERNATIONAL) LIMITED	paob.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	PT. BANK NEGARA INDONESIA (PERSERO) TBK.		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	PUBLIC BANK (HONG KONG) LIMITED	publicbank.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	QATAR NATIONAL BANK (Q.P.S.C.)		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	ROYAL BANK OF CANADA	rbccm.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	SHANGHAI COMMERCIAL & SAVINGS BANK, LTD. (THE)	scsb.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	SHANGHAI COMMERCIAL BANK LIMITED		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	SHANGHAI PUDONG DEVELOPMENT BANK CO., LTD.	spdb.com.cn	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	SHIGA BANK, LTD. (THE)		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	SHINHAN BANK	hk.shinhanglobal.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	SHIZUOKA BANK, LTD. (THE)		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	SKANDINAVISKA ENSKILDA BANKEN AB	sebgroup.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	SOCIETE GENERALE	societegenerale.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	STANDARD CHARTERED BANK		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	STANDARD CHARTERED BANK (HONG KONG) LIMITED	sc.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	STATE BANK OF INDIA	hk.statebank	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	STATE STREET BANK AND TRUST COMPANY	statestreet.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	SUMITOMO MITSUI BANKING CORPORATION		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	SUMITOMO MITSUI TRUST BANK, LIMITED		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	TAI SANG BANK LIMITED	taisangbank.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	TAI YAU BANK, LIMITED	tybhk.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	TAIPEI FUBON COMMERCIAL BANK CO., LTD.	fubon.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	TAISHIN INTERNATIONAL BANK CO., LTD	taishinbank.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	TAIWAN BUSINESS BANK, LTD.	tbb.com.tw	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	TAIWAN COOPERATIVE BANK, LTD.	tcb-bank.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.	skbank.com.tw	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	TORONTO-DOMINION BANK		HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	UBS AG	ubs.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	UCO BANK	ucobankhongkong.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	UNION BANCAIRE PRIVÉE, UBP SA	ubp.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	UNITED OVERSEAS BANK LIMITED	uobgroup.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	WELAB BANK LIMITED	welab.bank	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	WELLS FARGO BANK, NATIONAL ASSOCIATION	wellsfargo.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	WOORI BANK	hk.wooribank.com	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	YUANTA COMMERCIAL BANK CO., LTD	yuantabank.com.hk	HKMA Register of Authorized Institutions	hkma_ais.xls
+finance_insurance	licensed_bank	ZA BANK LIMITED	bank.za.group	HKMA Register of Authorized Institutions	hkma_ais.xls

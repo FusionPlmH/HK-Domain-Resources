@@ -1,0 +1,26 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak
+
+# Raw data source files (processed into TSV)
+*.xlsx
+*.csv
+*.xls

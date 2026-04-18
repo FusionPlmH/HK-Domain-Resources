@@ -1,0 +1,11 @@
+industry	category	name	domain	source	dataset
+finance_insurance	virtual_asset_provider	OSL Digital Securities Limited	osl.com	SFC Licensed VATP	vasp.tsv
+finance_insurance	virtual_asset_provider	Hash Blockchain Limited (HashKey Exchange)	hashkey.com	SFC Licensed VATP	vasp.tsv
+finance_insurance	virtual_asset_provider	HKbitEX Limited	hkbitex.com	SFC Licensed VATP	vasp.tsv
+finance_insurance	virtual_asset_provider	Hong Kong BGE Limited	bgex.com	SFC Licensed VATP (deemed)	vasp.tsv
+finance_insurance	virtual_asset_provider	Bullish (GI) Limited	bullish.com	SFC Licensed VATP (deemed)	vasp.tsv
+finance_insurance	virtual_asset_provider	Crypto.com Exchange (Hong Kong)	crypto.com	SFC Licensed VATP (deemed)	vasp.tsv
+finance_insurance	virtual_asset_provider	DFX Labs Company Limited	dfxlabs.com	SFC Licensed VATP (deemed)	vasp.tsv
+finance_insurance	virtual_asset_provider	Gate.HK Limited	gate.hk	SFC Licensed VATP (deemed)	vasp.tsv
+finance_insurance	virtual_asset_provider	OKX Hong Kong FinTech Company Limited	okx.com	SFC Licensed VATP (deemed)	vasp.tsv
+finance_insurance	virtual_asset_provider	SLEX Digital Assets Exchange Limited	slex.io	SFC Licensed VATP (deemed)	vasp.tsv

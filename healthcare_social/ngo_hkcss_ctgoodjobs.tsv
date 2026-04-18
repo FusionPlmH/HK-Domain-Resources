@@ -1,7 +1,7 @@
 industry	category	name	domain	source	dataset
-healthcare_social	ngo_hkcss_ctgoodjobs	Chung Sing Church Limited - Chung Sing Church Bradbury Social Service Centre	-	HKCSS x CTgoodjobs NGO Organisations	ngo.tsv
+healthcare_social	ngo_hkcss_ctgoodjobs	Chung Sing Church Limited - Chung Sing Church Bradbury Social Service Centre		HKCSS x CTgoodjobs NGO Organisations	ngo.tsv
 healthcare_social	ngo_hkcss_ctgoodjobs	1st Step Association Limited	1stephk.org	HKCSS x CTgoodjobs NGO Organisations	ngo.tsv
-healthcare_social	ngo_hkcss_ctgoodjobs	Hong Kong Association of Workers Serving Persons with Intellectual Disabilities Limited	27.6	HKCSS x CTgoodjobs NGO Organisations	ngo.tsv
+healthcare_social	ngo_hkcss_ctgoodjobs	Hong Kong Association of Workers Serving Persons with Intellectual Disabilities Limited		HKCSS x CTgoodjobs NGO Organisations	ngo.tsv
 healthcare_social	ngo_hkcss_ctgoodjobs	Direction Association for the Handicapped	4limb.org	HKCSS x CTgoodjobs NGO Organisations	ngo.tsv
 healthcare_social	ngo_hkcss_ctgoodjobs	Direction Association for the Handicapped	4limbse.org	HKCSS x CTgoodjobs NGO Organisations	ngo.tsv
 healthcare_social	ngo_hkcss_ctgoodjobs	Association for the Advancement of Feminism	aaf.org.hk	HKCSS x CTgoodjobs NGO Organisations	ngo.tsv

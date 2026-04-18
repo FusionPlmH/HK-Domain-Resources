@@ -1,0 +1,9 @@
+industry	category	name	domain	source	dataset
+professional_services	management_consulting	McKinsey & Company Hong Kong	mckinsey.com	Manual compilation	consulting_firms.tsv
+professional_services	management_consulting	Boston Consulting Group Hong Kong	bcg.com	Manual compilation	consulting_firms.tsv
+professional_services	management_consulting	Bain & Company Hong Kong	bain.com	Manual compilation	consulting_firms.tsv
+professional_services	management_consulting	Accenture Hong Kong	accenture.com	Manual compilation	consulting_firms.tsv
+professional_services	management_consulting	Oliver Wyman Hong Kong	oliverwyman.com	Manual compilation	consulting_firms.tsv
+professional_services	management_consulting	Roland Berger Hong Kong	rolandberger.com	Manual compilation	consulting_firms.tsv
+professional_services	management_consulting	FTI Consulting Hong Kong	fticonsulting.com	Manual compilation	consulting_firms.tsv
+professional_services	management_consulting	Alvarez & Marsal Hong Kong	alvarezandmarsal.com	Manual compilation	consulting_firms.tsv
