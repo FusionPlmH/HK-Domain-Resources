@@ -9,6 +9,8 @@ A curated collection of Hong Kong domain resources organized by industry sectors
 ## 📊 Statistics | 統計資料
 
 - **Total Industries Covered | 涵蓋行業:** 19
+- **Unique Companies / Organizations | 不重複公司／機構數目:** 30,882
+- **Unique Domains | 不重複域名數目:** 6,762
 - **Last Updated | 最後更新:** 2026-04-19
 - **Update Schedule | 更新頻率:** Quarterly (Jan, Apr, Jul, Oct) | 每季度更新（一月、四月、七月、十月）
 - **Next Scheduled Update | 下次更新:** 2026-07-15
